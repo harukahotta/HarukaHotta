@@ -1,7 +1,7 @@
-## 名前
+## name
 
-堀田 陽香
+Haruka Hotta
 
-## 所属
+## Organization
 
-東京大学大気海洋研究所鈴木研究室
+Atmospheric and Ocean Research Institute, Tokyo University.
