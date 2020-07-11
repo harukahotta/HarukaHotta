@@ -4,7 +4,9 @@ Haruka Hotta
 
 ## Organization
 
-Atmospheric and Ocean Research Institute, Tokyo University.
+[Atmospheric and Ocean Research Institute, Tokyo University] (https://ccsr.aori.u-tokyo.ac.jp/index-e.html).
+
+Belong to Suzuki Laboratory.
 
 ## Research
 
