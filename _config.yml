@@ -1,0 +1,6 @@
+theme: jekyll-theme-slate  # 自分が設定したいテーマ
+encding: utf-8
+plugins: 
+  - jekyll-github-metadata
+github : [metadata]
+repository: harukahotta/HarukaHotta # 自分のアカウントとリポジトリを書きましょう
