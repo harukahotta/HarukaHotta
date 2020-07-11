@@ -4,7 +4,7 @@ Haruka Hotta
 
 ## Organization
 
-[Go CCSR Web] (https://ccsr.aori.u-tokyo.ac.jp/index-e.html, "Atmospheric and Ocean Research Institute, Tokyo University").
+[Go CCSR Web](https://ccsr.aori.u-tokyo.ac.jp/index-e.html, "Atmospheric and Ocean Research Institute, Tokyo University").
 
 Belong to Suzuki Laboratory.
 
