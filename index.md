@@ -1,8 +1,21 @@
-## Name
+---
+layout: default
+title: Home
+nav_order: 1
+description: "My site"
+permalink: /
+---
 
-Haruka Hotta
+# Haruka Hotta
+{: .fs-9 }
 
-## Organization
+**This site is under construction!!** Ph.D. candidate
+{: .fs-6 .fw-300 }
+
+
+---
+
+## About herself
 
 [Atmospheric and Ocean Research Institute, Tokyo University](https://ccsr.aori.u-tokyo.ac.jp/index-e.html, "Atmospheric and Ocean Research Institute, Tokyo University").
 
@@ -10,19 +23,6 @@ Belong to Suzuki Laboratory.
 
 [ORCiD ID](https://orcid.org/0000-0001-8916-6661)
 
-## Research
 
-Cloud and aerosol on the global scale
-
-## Tools
-
-### MIROC
-
-### NICAM
-
-### Satellite Observations
-
-## Contact
-
-email:hotta@aori.u-tokyo.ac.jp
+## About the project
 
