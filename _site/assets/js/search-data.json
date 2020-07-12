@@ -2,247 +2,247 @@
     "doc": "Aerosol",
     "title": "Aerosol",
     "content": " ",
-    "url": "/docs/research/aerosol/",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/research/aerosol/",
     "relUrl": "/docs/research/aerosol/"
   },"1": {
     "doc": "Aerosol",
     "title": "Table of contents",
     "content": ". | Aerosol | As cloud nuclei | . ",
-    "url": "/docs/research/aerosol/#table-of-contents",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/research/aerosol/#table-of-contents",
     "relUrl": "/docs/research/aerosol/#table-of-contents"
   },"2": {
     "doc": "Aerosol",
     "title": "Aerosol",
     "content": " ",
-    "url": "/docs/research/aerosol/",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/research/aerosol/",
     "relUrl": "/docs/research/aerosol/"
   },"3": {
     "doc": "Aerosol",
     "title": "As cloud nuclei",
     "content": " ",
-    "url": "/docs/research/aerosol/#as-cloud-nuclei",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/research/aerosol/#as-cloud-nuclei",
     "relUrl": "/docs/research/aerosol/#as-cloud-nuclei"
   },"4": {
     "doc": "Clouds",
     "title": "Clouds",
     "content": " ",
-    "url": "/docs/research/clouds/",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/research/clouds/",
     "relUrl": "/docs/research/clouds/"
   },"5": {
     "doc": "Clouds",
     "title": "Table of contents",
     "content": ". | Clouds | Microphysics | . ",
-    "url": "/docs/research/clouds/#table-of-contents",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/research/clouds/#table-of-contents",
     "relUrl": "/docs/research/clouds/#table-of-contents"
   },"6": {
     "doc": "Clouds",
     "title": "Clouds",
     "content": " ",
-    "url": "/docs/research/clouds/",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/research/clouds/",
     "relUrl": "/docs/research/clouds/"
   },"7": {
     "doc": "Clouds",
     "title": "Microphysics",
     "content": " ",
-    "url": "/docs/research/clouds/#microphysics",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/research/clouds/#microphysics",
     "relUrl": "/docs/research/clouds/#microphysics"
   },"8": {
     "doc": "Customization",
     "title": "Customization",
     "content": " ",
-    "url": "/docs/customization/",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/",
     "relUrl": "/docs/customization/"
   },"9": {
     "doc": "Customization",
     "title": "Table of contents",
     "content": ". | Color schemes | Custom schemes . | Define a custom scheme | Use a custom scheme | Switchable custom scheme | . | Override and completely custom styles | . ",
-    "url": "/docs/customization/#table-of-contents",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/#table-of-contents",
     "relUrl": "/docs/customization/#table-of-contents"
   },"10": {
     "doc": "Customization",
     "title": "Color schemes",
     "content": "New . Just the Docs supports two color schemes: light (default), and dark. To enable a color scheme, set the color_scheme parameter in your site’s _config.yml file: . Example . # Color scheme supports \"light\" (default) and \"dark\" color_scheme: dark . Preview dark color scheme . ",
-    "url": "/docs/customization/#color-schemes",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/#color-schemes",
     "relUrl": "/docs/customization/#color-schemes"
   },"11": {
     "doc": "Customization",
     "title": "Custom schemes",
     "content": "Define a custom scheme . You can add custom schemes. If you want to add a scheme named foo (can be any name) just add a file _sass/color_schemes/foo.scss (replace foo by your scheme name) where you override theme variables to change colors, fonts, spacing, etc. Available variables are listed in the _variables.scss file. For example, to change the link color from the purple default to blue, include the following inside your scheme file: . Example . $link-color: $blue-000; . Note: Editing the variables directly in _sass/support/variables.scss is not recommended and can cause other dependencies to fail. Please use scheme files. Use a custom scheme . To use the custom color scheme, only set the color_scheme parameter in your site’s _config.yml file: . color_scheme: foo . Switchable custom scheme . If you want to be able to change the scheme dynamically, for example via javascript, just add a file assets/css/just-the-docs-foo.scss (replace foo by your scheme name) with the following content:` . --- --- {% include css/just-the-docs.scss.liquid color_scheme=\"foo\" %} . This allows you to switch the scheme via the following javascript. jtd.setTheme('foo'); . ",
-    "url": "/docs/customization/#custom-schemes",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/#custom-schemes",
     "relUrl": "/docs/customization/#custom-schemes"
   },"12": {
     "doc": "Customization",
     "title": "Override and completely custom styles",
     "content": "For styles that aren’t defined as variables, you may want to modify specific CSS classes. Additionally, you may want to add completely custom CSS specific to your content. To do this, put your styles in the file _sass/custom/custom.scss. This will allow for all overrides to be kept in a single file, and for any upstream changes to still be applied. For example, if you’d like to add your own styles for printing a page, you could add the following styles. Example . // Print-only styles. @media print { .side-bar, .page-header { display: none; } .main-content { max-width: auto; margin: 1em;} } . ",
-    "url": "/docs/customization/#override-and-completely-custom-styles",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/#override-and-completely-custom-styles",
     "relUrl": "/docs/customization/#override-and-completely-custom-styles"
   },"13": {
     "doc": "CV",
     "title": "CV",
     "content": "Publication etc . ",
-    "url": "/docs/cv/",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/",
     "relUrl": "/docs/cv/"
   },"14": {
     "doc": "CV",
     "title": "Table of contents",
     "content": ". | Publication | Presentation | . ",
-    "url": "/docs/cv/#table-of-contents",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#table-of-contents",
     "relUrl": "/docs/cv/#table-of-contents"
   },"15": {
     "doc": "CV",
     "title": "Publication",
     "content": " ",
-    "url": "/docs/cv/#publication",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#publication",
     "relUrl": "/docs/cv/#publication"
   },"16": {
     "doc": "CV",
     "title": "Presentation",
     "content": " ",
-    "url": "/docs/cv/#presentation",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#presentation",
     "relUrl": "/docs/cv/#presentation"
   },"17": {
     "doc": "Markdown kitchen sink",
     "title": "Header 1",
     "content": "This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ",
-    "url": "/docs/index-test/#header-1",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/index-test/#header-1",
     "relUrl": "/docs/index-test/#header-1"
   },"18": {
     "doc": "Markdown kitchen sink",
     "title": "Header 2",
     "content": "This is a blockquote following a header. When something is important enough, you do it even if the odds are not in your favor. Header 3 . // Javascript code with syntax highlighting. var fun = function lang(l) { dateformat.i18n = require('./lang/' + l) return true; } . # Ruby code with syntax highlighting GitHubPages::Dependencies.gems.each do |gem, version| s.add_dependency(gem, \"= #{version}\") end . Header 4 . | This is an unordered list following a header. | This is an unordered list following a header. | This is an unordered list following a header. | . Header 5 . | This is an ordered list following a header. | This is an ordered list following a header. | This is an ordered list following a header. | . Header 6 . | head1 | head two | three | . | ok | good swedish fish | nice | . | out of stock | good and plenty | nice | . | ok | good oreos | hmm | . | ok | good zoute drop | yumm | . There’s a horizontal rule below this. Here is an unordered list: . | Item foo | Item bar | Item baz | Item zip | . And an ordered list: . | Item one | Item two | Item three | Item four | . And a nested list: . | level 1 item . | level 2 item | level 2 item . | level 3 item | level 3 item | . | . | level 1 item . | level 2 item | level 2 item | level 2 item | . | level 1 item . | level 2 item | level 2 item | . | level 1 item | . Nesting an ol in ul in an ol . | level 1 item (ul) . | level 2 item (ol) | level 2 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | . | level 1 item (ul) . | level 2 item (ol) | level 2 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | level 4 item (ol) | level 4 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | . | level 1 item (ul) | . And a task list . | Hello, this is a TODO item | Hello, this is another TODO item | Goodbye, this item is done | . Small image . Large image . Definition lists can be used with HTML syntax. Name Godzilla Born 1952 Birthplace Japan Color Green Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. The final element. ",
-    "url": "/docs/index-test/#header-2",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/index-test/#header-2",
     "relUrl": "/docs/index-test/#header-2"
   },"19": {
     "doc": "Markdown kitchen sink",
     "title": "Markdown kitchen sink",
     "content": "Text can be bold, italic, or strikethrough. Link to another page. There should be whitespace between paragraphs. There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. ",
-    "url": "/docs/index-test/",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/index-test/",
     "relUrl": "/docs/index-test/"
   },"20": {
     "doc": "Home",
     "title": "Haruka Hotta",
     "content": "This site is under construction!! Ph.D. candidate . ",
-    "url": "/#haruka-hotta",
+    "url": "https://harukahotta.github.io/HarukaHotta/#haruka-hotta",
     "relUrl": "/#haruka-hotta"
   },"21": {
     "doc": "Home",
     "title": "About herself",
     "content": "Atmospheric and Ocean Research Institute, Tokyo University. Belong to Suzuki Laboratory. ORCiD ID . ",
-    "url": "/#about-herself",
+    "url": "https://harukahotta.github.io/HarukaHotta/#about-herself",
     "relUrl": "/#about-herself"
   },"22": {
     "doc": "Home",
     "title": "About the project",
     "content": " ",
-    "url": "/#about-the-project",
+    "url": "https://harukahotta.github.io/HarukaHotta/#about-the-project",
     "relUrl": "/#about-the-project"
   },"23": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
-    "url": "/",
+    "url": "https://harukahotta.github.io/HarukaHotta/",
     "relUrl": "/"
   },"24": {
     "doc": "MIROC",
     "title": "MIROC",
     "content": " ",
-    "url": "/docs/tools/miroc/",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/miroc/",
     "relUrl": "/docs/tools/miroc/"
   },"25": {
     "doc": "MIROC",
     "title": "Table of contents",
     "content": ". Climate Model . ",
-    "url": "/docs/tools/miroc/#table-of-contents",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/miroc/#table-of-contents",
     "relUrl": "/docs/tools/miroc/#table-of-contents"
   },"26": {
     "doc": "NICAM",
     "title": "NICAM",
     "content": " ",
-    "url": "/docs/tools/nicam/",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/nicam/",
     "relUrl": "/docs/tools/nicam/"
   },"27": {
     "doc": "NICAM",
     "title": "Table of contents",
     "content": ". Cloud-system resolving model . ",
-    "url": "/docs/tools/nicam/#table-of-contents",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/nicam/#table-of-contents",
     "relUrl": "/docs/tools/nicam/#table-of-contents"
   },"28": {
     "doc": "Research",
     "title": "Research",
     "content": " ",
-    "url": "/docs/research",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/research",
     "relUrl": "/docs/research"
   },"29": {
     "doc": "Search",
     "title": "Search",
     "content": " ",
-    "url": "/docs/search/",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/search/",
     "relUrl": "/docs/search/"
   },"30": {
     "doc": "Search",
     "title": "Table of contents",
     "content": ". | Enable search in configuration . | Search granularity | Search previews | Search tokenizer | Display URL in search results | Display search button | . | Hiding pages from search | Generate search index when used as a gem | . Just the Docs uses lunr.js to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points: . | Page title | Page content | Page URL | . ",
-    "url": "/docs/search/#table-of-contents",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#table-of-contents",
     "relUrl": "/docs/search/#table-of-contents"
   },"31": {
     "doc": "Search",
     "title": "Enable search in configuration",
     "content": "In your site’s _config.yml, enable search: . # Enable or disable the site search # Supports true (default) or false search_enabled: true . Search granularity . Pages are split into sections that can be searched individually. The sections are defined by the headings on the page. Each section is displayed in a separate search result. # Split pages into sections that can be searched individually # Supports 1 - 6, default: 2 search.heading_level: 2 . Search previews . A search result can contain previews that show where the search words are found in the specific section. # Maximum amount of previews per search result # Default: 3 search.previews: 3 # Maximum amount of words to display before a matched word in the preview # Default: 5 search.preview_words_before: 5 # Maximum amount of words to display after a matched word in the preview # Default: 10 search.preview_words_after: 10 . Search tokenizer . The default is for hyphens to separate tokens in search terms: gem-based is equivalent to gem based, matching either word. To allow search for hyphenated words: . # Set the search token separator # Default: /[\\s\\-/]+/ # Example: enable support for hyphenated search words search.tokenizer_separator: /[\\s/]+/ . Display URL in search results . # Display the relative url in search results # Supports true (default) or false search.rel_url: false . Display search button . The search button displays in the bottom right corner of the screen and triggers the search input when clicked. # Enable or disable the search button that appears in the bottom right corner of every page # Supports true or false (default) search.button: true . ",
-    "url": "/docs/search/#enable-search-in-configuration",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#enable-search-in-configuration",
     "relUrl": "/docs/search/#enable-search-in-configuration"
   },"32": {
     "doc": "Search",
     "title": "Hiding pages from search",
     "content": "Sometimes you might have a page that you don’t want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the search_exclude: true parameter to the page’s YAML front matter: . Example . --- layout: default title: Page not found nav_exclude: true search_exclude: true --- . ",
-    "url": "/docs/search/#hiding-pages-from-search",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#hiding-pages-from-search",
     "relUrl": "/docs/search/#hiding-pages-from-search"
   },"33": {
     "doc": "Search",
     "title": "Generate search index when used as a gem",
     "content": "If you use Just the Docs as a remote theme, you do not need the following steps. If you use the theme as a gem, you must initialize the search by running this rake command that comes with just-the-docs: . $ bundle exec just-the-docs rake search:init . This command creates the assets/js/zzzz-search-data.json file that Jekyll uses to create your search index. Alternatively, you can create the file manually with this content. ",
-    "url": "/docs/search/#generate-search-index-when-used-as-a-gem",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#generate-search-index-when-used-as-a-gem",
     "relUrl": "/docs/search/#generate-search-index-when-used-as-a-gem"
   },"34": {
     "doc": "Tips",
     "title": "Tips!!",
     "content": " ",
-    "url": "/docs/tips/#tips",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/#tips",
     "relUrl": "/docs/tips/#tips"
   },"35": {
     "doc": "Tips",
     "title": "Table of contents",
     "content": ". | Fortran | Python . | matplotlib . | Example | . | test | . | . ",
-    "url": "/docs/tips/#table-of-contents",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/#table-of-contents",
     "relUrl": "/docs/tips/#table-of-contents"
   },"36": {
     "doc": "Tips",
     "title": "Fortran",
     "content": ". ",
-    "url": "/docs/tips/#fortran",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/#fortran",
     "relUrl": "/docs/tips/#fortran"
   },"37": {
     "doc": "Tips",
     "title": "Python",
     "content": "matplotlib . Example . test . The result is shown at the top of this page ({:toc} can be used only once on each page). ",
-    "url": "/docs/tips/#python",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/#python",
     "relUrl": "/docs/tips/#python"
   },"38": {
     "doc": "Tips",
     "title": "Tips",
     "content": " ",
-    "url": "/docs/tips/",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/",
     "relUrl": "/docs/tips/"
   },"39": {
     "doc": "Tools",
     "title": "Utilities",
     "content": "Thank you tools! . ",
-    "url": "/docs/tools#utilities",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tools#utilities",
     "relUrl": "/docs/tools#utilities"
   },"40": {
     "doc": "Tools",
     "title": "Tools",
     "content": " ",
-    "url": "/docs/tools",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tools",
     "relUrl": "/docs/tools"
   }
 }
