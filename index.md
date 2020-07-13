@@ -9,7 +9,7 @@ permalink: /
 # Haruka Hotta
 {: .fs-9 }
 
-**This site is under construction!!** Ph.D. candidate
+**This site is under construction!! (2020.07.14)** Ph.D. candidate
 {: .fs-6 .fw-300 }
 
 
