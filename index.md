@@ -24,5 +24,11 @@ Belong to Suzuki Laboratory.
 [ORCiD ID](https://orcid.org/0000-0001-8916-6661)
 
 
-## About the project
+## About projects
 
+
+## language (言語)
+
+英語に慣れたいので偉そうに英語で書いているが、きっと間違いだらけになる。
+研究とかの章は、日本語/English両方用意するのがいいのでしょう。
+まずはコンテンツを作ろう！！

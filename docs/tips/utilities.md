@@ -6,8 +6,8 @@ has_children: true
 permalink: docs/tips
 ---
 
-# Utilities
+# Tips
 {: .no_toc }
 
-Thank you tools!
+I write these tips for myself.
 {: .fs-6 .fw-300 }
