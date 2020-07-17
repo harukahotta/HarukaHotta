@@ -7,13 +7,13 @@
   },"1": {
     "doc": "GitHub",
     "title": "Table of contents",
-    "content": ". | Terms . | origin | git fork vs git clone | . | . Git(GitHub) . ",
+    "content": ". | Terms . | origin | HEAD | git fork vs git clone | . | . Git(GitHub) . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/GitHub/#table-of-contents",
     "relUrl": "/docs/tips/GitHub/#table-of-contents"
   },"2": {
     "doc": "GitHub",
     "title": "Terms",
-    "content": "origin . “origin” is an alias for the remote repository. git fork vs git clone . Forking is done on the GitHub Account while Cloning is done using Git. When you fork a repository, you create a copy of the original repository (upstream repository) but the repository remains on your GitHub account. Whereas, when you clone a repository, the repository is copied on to your local machine with the help of Git. Difference between Git Clone and Git Fork . ",
+    "content": "origin . “origin” is an alias for the remote repository. HEAD . “HEAD” can always be used to refer to the current branch. git fork vs git clone . Forking is done on the GitHub Account while Cloning is done using Git. When you fork a repository, you create a copy of the original repository (upstream repository) but the repository remains on your GitHub account. Whereas, when you clone a repository, the repository is copied on to your local machine with the help of Git. Difference between Git Clone and Git Fork . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/GitHub/#terms",
     "relUrl": "/docs/tips/GitHub/#terms"
   },"3": {
@@ -65,204 +65,234 @@
     "url": "https://harukahotta.github.io/HarukaHotta/docs/research/clouds/#microphysics",
     "relUrl": "/docs/research/clouds/#microphysics"
   },"11": {
+    "doc": "Command",
+    "title": "Command",
+    "content": " ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/",
+    "relUrl": "/docs/tips/command/"
+  },"12": {
+    "doc": "Command",
+    "title": "Table of contents",
+    "content": ". | grep . | option | . | find . | option | . | grep + find | . Useful commands. ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#table-of-contents",
+    "relUrl": "/docs/tips/command/#table-of-contents"
+  },"13": {
+    "doc": "Command",
+    "title": "grep",
+    "content": "grep [-option] pattern file . option . -i -ignore-case -n –line-number -r –recursive -I –binary-files=without-match --exclude-dir={.directory1,directory2} . ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#grep",
+    "relUrl": "/docs/tips/command/#grep"
+  },"14": {
+    "doc": "Command",
+    "title": "find",
+    "content": "option . ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#find",
+    "relUrl": "/docs/tips/command/#find"
+  },"15": {
+    "doc": "Command",
+    "title": "grep + find",
+    "content": "find folder -type f | xargs grep pattern find ./ -name '*' | xargs grep hogehoge . ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#grep--find",
+    "relUrl": "/docs/tips/command/#grep--find"
+  },"16": {
     "doc": "Customization",
     "title": "Customization",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/",
     "relUrl": "/docs/customization/"
-  },"12": {
+  },"17": {
     "doc": "Customization",
     "title": "Table of contents",
     "content": ". | Color schemes | Custom schemes . | Define a custom scheme | Use a custom scheme | Switchable custom scheme | . | Override and completely custom styles | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/#table-of-contents",
     "relUrl": "/docs/customization/#table-of-contents"
-  },"13": {
+  },"18": {
     "doc": "Customization",
     "title": "Color schemes",
     "content": "New . Just the Docs supports two color schemes: light (default), and dark. To enable a color scheme, set the color_scheme parameter in your site’s _config.yml file: . Example . # Color scheme supports \"light\" (default) and \"dark\" color_scheme: dark . Preview dark color scheme . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/#color-schemes",
     "relUrl": "/docs/customization/#color-schemes"
-  },"14": {
+  },"19": {
     "doc": "Customization",
     "title": "Custom schemes",
     "content": "Define a custom scheme . You can add custom schemes. If you want to add a scheme named foo (can be any name) just add a file _sass/color_schemes/foo.scss (replace foo by your scheme name) where you override theme variables to change colors, fonts, spacing, etc. Available variables are listed in the _variables.scss file. For example, to change the link color from the purple default to blue, include the following inside your scheme file: . Example . $link-color: $blue-000; . Note: Editing the variables directly in _sass/support/variables.scss is not recommended and can cause other dependencies to fail. Please use scheme files. Use a custom scheme . To use the custom color scheme, only set the color_scheme parameter in your site’s _config.yml file: . color_scheme: foo . Switchable custom scheme . If you want to be able to change the scheme dynamically, for example via javascript, just add a file assets/css/just-the-docs-foo.scss (replace foo by your scheme name) with the following content:` . --- --- {% include css/just-the-docs.scss.liquid color_scheme=\"foo\" %} . This allows you to switch the scheme via the following javascript. jtd.setTheme('foo'); . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/#custom-schemes",
     "relUrl": "/docs/customization/#custom-schemes"
-  },"15": {
+  },"20": {
     "doc": "Customization",
     "title": "Override and completely custom styles",
     "content": "For styles that aren’t defined as variables, you may want to modify specific CSS classes. Additionally, you may want to add completely custom CSS specific to your content. To do this, put your styles in the file _sass/custom/custom.scss. This will allow for all overrides to be kept in a single file, and for any upstream changes to still be applied. For example, if you’d like to add your own styles for printing a page, you could add the following styles. Example . // Print-only styles. @media print { .side-bar, .page-header { display: none; } .main-content { max-width: auto; margin: 1em;} } . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/#override-and-completely-custom-styles",
     "relUrl": "/docs/customization/#override-and-completely-custom-styles"
-  },"16": {
+  },"21": {
     "doc": "CV",
     "title": "CV",
     "content": "Publication etc . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/",
     "relUrl": "/docs/cv/"
-  },"17": {
+  },"22": {
     "doc": "CV",
     "title": "Table of contents",
     "content": ". | Publication | Presentation | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#table-of-contents",
     "relUrl": "/docs/cv/#table-of-contents"
-  },"18": {
+  },"23": {
     "doc": "CV",
     "title": "Publication",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#publication",
     "relUrl": "/docs/cv/#publication"
-  },"19": {
+  },"24": {
     "doc": "CV",
     "title": "Presentation",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#presentation",
     "relUrl": "/docs/cv/#presentation"
-  },"20": {
+  },"25": {
     "doc": "Fortran",
     "title": "Fortran",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/fortran/",
     "relUrl": "/docs/tips/fortran/"
-  },"21": {
+  },"26": {
     "doc": "Fortran",
     "title": "Table of contents",
     "content": ". I don’t like fortran 77 . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/fortran/#table-of-contents",
     "relUrl": "/docs/tips/fortran/#table-of-contents"
-  },"22": {
+  },"27": {
     "doc": "Markdown kitchen sink",
     "title": "Header 1",
     "content": "This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/index-test/#header-1",
     "relUrl": "/docs/index-test/#header-1"
-  },"23": {
+  },"28": {
     "doc": "Markdown kitchen sink",
     "title": "Header 2",
     "content": "This is a blockquote following a header. When something is important enough, you do it even if the odds are not in your favor. Header 3 . // Javascript code with syntax highlighting. var fun = function lang(l) { dateformat.i18n = require('./lang/' + l) return true; } . # Ruby code with syntax highlighting GitHubPages::Dependencies.gems.each do |gem, version| s.add_dependency(gem, \"= #{version}\") end . Header 4 . | This is an unordered list following a header. | This is an unordered list following a header. | This is an unordered list following a header. | . Header 5 . | This is an ordered list following a header. | This is an ordered list following a header. | This is an ordered list following a header. | . Header 6 . | head1 | head two | three | . | ok | good swedish fish | nice | . | out of stock | good and plenty | nice | . | ok | good oreos | hmm | . | ok | good zoute drop | yumm | . There’s a horizontal rule below this. Here is an unordered list: . | Item foo | Item bar | Item baz | Item zip | . And an ordered list: . | Item one | Item two | Item three | Item four | . And a nested list: . | level 1 item . | level 2 item | level 2 item . | level 3 item | level 3 item | . | . | level 1 item . | level 2 item | level 2 item | level 2 item | . | level 1 item . | level 2 item | level 2 item | . | level 1 item | . Nesting an ol in ul in an ol . | level 1 item (ul) . | level 2 item (ol) | level 2 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | . | level 1 item (ul) . | level 2 item (ol) | level 2 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | level 4 item (ol) | level 4 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | . | level 1 item (ul) | . And a task list . | Hello, this is a TODO item | Hello, this is another TODO item | Goodbye, this item is done | . Small image . Large image . Definition lists can be used with HTML syntax. Name Godzilla Born 1952 Birthplace Japan Color Green Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. The final element. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/index-test/#header-2",
     "relUrl": "/docs/index-test/#header-2"
-  },"24": {
+  },"29": {
     "doc": "Markdown kitchen sink",
     "title": "Markdown kitchen sink",
     "content": "Text can be bold, italic, or strikethrough. Link to another page. There should be whitespace between paragraphs. There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/index-test/",
     "relUrl": "/docs/index-test/"
-  },"25": {
+  },"30": {
     "doc": "Home",
     "title": "Haruka Hotta",
-    "content": "This site is under construction!! (2020.07.14) Ph.D. candidate . ",
+    "content": "This site is under construction!! (2020.07.17) Ph.D. student . ",
     "url": "https://harukahotta.github.io/HarukaHotta/#haruka-hotta",
     "relUrl": "/#haruka-hotta"
-  },"26": {
+  },"31": {
     "doc": "Home",
     "title": "About herself",
-    "content": "Atmospheric and Ocean Research Institute, Tokyo University. Belong to Suzuki Laboratory. ORCiD ID . ",
+    "content": "Atmospheric and Ocean Research Institute, Tokyo University. Belong to Suzuki Laboratory. ORCiD ID . Google Scholar Citation . ",
     "url": "https://harukahotta.github.io/HarukaHotta/#about-herself",
     "relUrl": "/#about-herself"
-  },"27": {
+  },"32": {
     "doc": "Home",
     "title": "About projects",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/#about-projects",
     "relUrl": "/#about-projects"
-  },"28": {
+  },"33": {
     "doc": "Home",
     "title": "language (言語)",
-    "content": "英語に慣れたいので偉そうに英語で書いているが、きっと間違いだらけになる。 研究とかの章は、日本語/English両方用意するのがいいのでしょう。 まずはコンテンツを作ろう！！ . ",
+    "content": "英語に慣れたいので英語で書いているが、いつまで続くかな。 研究とかの章は、日本語/English両方用意するのがいいのでしょう。 まずはコンテンツを作ろう！！！ . ",
     "url": "https://harukahotta.github.io/HarukaHotta/#language-%E8%A8%80%E8%AA%9E",
     "relUrl": "/#language-言語"
-  },"29": {
+  },"34": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/",
     "relUrl": "/"
-  },"30": {
+  },"35": {
     "doc": "MIROC",
     "title": "MIROC",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/miroc/",
     "relUrl": "/docs/tools/miroc/"
-  },"31": {
+  },"36": {
     "doc": "MIROC",
     "title": "Table of contents",
     "content": ". Climate Model . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/miroc/#table-of-contents",
     "relUrl": "/docs/tools/miroc/#table-of-contents"
-  },"32": {
+  },"37": {
     "doc": "NICAM",
     "title": "NICAM",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/nicam/",
     "relUrl": "/docs/tools/nicam/"
-  },"33": {
+  },"38": {
     "doc": "NICAM",
     "title": "Table of contents",
     "content": ". Cloud-system resolving model . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/nicam/#table-of-contents",
     "relUrl": "/docs/tools/nicam/#table-of-contents"
-  },"34": {
+  },"39": {
     "doc": "Python",
     "title": "Python",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/python/",
     "relUrl": "/docs/tips/python/"
-  },"35": {
+  },"40": {
     "doc": "Python",
     "title": "Table of contents",
     "content": ". Modern language. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/python/#table-of-contents",
     "relUrl": "/docs/tips/python/#table-of-contents"
-  },"36": {
+  },"41": {
     "doc": "Research",
     "title": "Research",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/research",
     "relUrl": "/docs/research"
-  },"37": {
+  },"42": {
     "doc": "Search",
     "title": "Search",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/",
     "relUrl": "/docs/search/"
-  },"38": {
+  },"43": {
     "doc": "Search",
     "title": "Table of contents",
     "content": ". | Enable search in configuration . | Search granularity | Search previews | Search tokenizer | Display URL in search results | Display search button | . | Hiding pages from search | Generate search index when used as a gem | . Just the Docs uses lunr.js to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points: . | Page title | Page content | Page URL | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#table-of-contents",
     "relUrl": "/docs/search/#table-of-contents"
-  },"39": {
+  },"44": {
     "doc": "Search",
     "title": "Enable search in configuration",
     "content": "In your site’s _config.yml, enable search: . # Enable or disable the site search # Supports true (default) or false search_enabled: true . Search granularity . Pages are split into sections that can be searched individually. The sections are defined by the headings on the page. Each section is displayed in a separate search result. # Split pages into sections that can be searched individually # Supports 1 - 6, default: 2 search.heading_level: 2 . Search previews . A search result can contain previews that show where the search words are found in the specific section. # Maximum amount of previews per search result # Default: 3 search.previews: 3 # Maximum amount of words to display before a matched word in the preview # Default: 5 search.preview_words_before: 5 # Maximum amount of words to display after a matched word in the preview # Default: 10 search.preview_words_after: 10 . Search tokenizer . The default is for hyphens to separate tokens in search terms: gem-based is equivalent to gem based, matching either word. To allow search for hyphenated words: . # Set the search token separator # Default: /[\\s\\-/]+/ # Example: enable support for hyphenated search words search.tokenizer_separator: /[\\s/]+/ . Display URL in search results . # Display the relative url in search results # Supports true (default) or false search.rel_url: false . Display search button . The search button displays in the bottom right corner of the screen and triggers the search input when clicked. # Enable or disable the search button that appears in the bottom right corner of every page # Supports true or false (default) search.button: true . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#enable-search-in-configuration",
     "relUrl": "/docs/search/#enable-search-in-configuration"
-  },"40": {
+  },"45": {
     "doc": "Search",
     "title": "Hiding pages from search",
     "content": "Sometimes you might have a page that you don’t want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the search_exclude: true parameter to the page’s YAML front matter: . Example . --- layout: default title: Page not found nav_exclude: true search_exclude: true --- . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#hiding-pages-from-search",
     "relUrl": "/docs/search/#hiding-pages-from-search"
-  },"41": {
+  },"46": {
     "doc": "Search",
     "title": "Generate search index when used as a gem",
     "content": "If you use Just the Docs as a remote theme, you do not need the following steps. If you use the theme as a gem, you must initialize the search by running this rake command that comes with just-the-docs: . $ bundle exec just-the-docs rake search:init . This command creates the assets/js/zzzz-search-data.json file that Jekyll uses to create your search index. Alternatively, you can create the file manually with this content. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#generate-search-index-when-used-as-a-gem",
     "relUrl": "/docs/search/#generate-search-index-when-used-as-a-gem"
-  },"42": {
+  },"47": {
     "doc": "Tools",
     "title": "Utilities",
     "content": "Thank you tools! . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools#utilities",
     "relUrl": "/docs/tools#utilities"
-  },"43": {
+  },"48": {
     "doc": "Tools",
     "title": "Tools",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools",
     "relUrl": "/docs/tools"
-  },"44": {
+  },"49": {
     "doc": "Tips",
     "title": "Tips",
     "content": "I write these tips for myself. ",

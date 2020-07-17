@@ -9,7 +9,7 @@ permalink: /
 # Haruka Hotta
 {: .fs-9 }
 
-**This site is under construction!! (2020.07.14)** Ph.D. candidate
+**This site is under construction!! (2020.07.17)** Ph.D. student
 {: .fs-6 .fw-300 }
 
 
@@ -23,12 +23,13 @@ Belong to Suzuki Laboratory.
 
 [ORCiD ID](https://orcid.org/0000-0001-8916-6661)
 
+[Google Scholar Citation](https://scholar.google.com/citations?hl=en&user=QCeyeCUAAAAJ)
 
 ## About projects
 
 
 ## language (言語)
 
-英語に慣れたいので偉そうに英語で書いているが、きっと間違いだらけになる。
+英語に慣れたいので英語で書いているが、いつまで続くかな。
 研究とかの章は、日本語/English両方用意するのがいいのでしょう。
-まずはコンテンツを作ろう！！
+まずはコンテンツを作ろう！！！

@@ -23,6 +23,10 @@ Git(GitHub)
 
 "origin" is an alias for the remote repository.
 
+### HEAD
+
+"HEAD" can always be used to refer to the current branch.
+
 ### git fork vs git clone
 
 Forking is done on the GitHub Account while Cloning is done using Git. When you fork a repository, you create a copy of the original repository (upstream repository) but the repository remains on your GitHub account. Whereas, when you clone a repository, the repository is copied on to your local machine with the help of Git.
