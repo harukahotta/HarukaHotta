@@ -38,3 +38,10 @@ Useful commands.
 `find folder -type f | xargs grep pattern`  
 `find ./ -name '*' | xargs grep hogehoge`
 
+
+## less
+
+### option
+
+`-i` --ignore-case
+`-M` --LONG-PROMPT
