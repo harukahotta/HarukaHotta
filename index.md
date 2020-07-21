@@ -9,7 +9,7 @@ permalink: /
 # Haruka Hotta
 {: .fs-9 }
 
-**This site is under construction!! (2020.07.17)** Ph.D. student
+**This site is under construction!! (2020.07.21)** Ph.D. student
 {: .fs-6 .fw-300 }
 
 

@@ -45,3 +45,10 @@ Useful commands.
 
 `-i` --ignore-case
 `-M` --LONG-PROMPT
+
+## files
+
+### copy and paste file contents to clip board
+
+`pbcopy < hoge1.txt`
+`pbpaste > hoge2.txt`
