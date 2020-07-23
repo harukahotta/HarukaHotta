@@ -217,13 +217,13 @@
   },"36": {
     "doc": "Home",
     "title": "Haruka Hotta",
-    "content": "This site is under construction!! (2020.07.21) Ph.D. student . ",
+    "content": "This site is under construction!! (2020.07.23) Ph.D. student . ",
     "url": "https://harukahotta.github.io/HarukaHotta/#haruka-hotta",
     "relUrl": "/#haruka-hotta"
   },"37": {
     "doc": "Home",
     "title": "About herself",
-    "content": "Atmospheric and Ocean Research Institute, Tokyo University. Belong to Suzuki Laboratory. ORCiD ID . Google Scholar Citation . ",
+    "content": "Atmospheric and Ocean Research Institute, Tokyo University. Belong to Suzuki Laboratory . ORCiD ID . Google Scholar Citation . ",
     "url": "https://harukahotta.github.io/HarukaHotta/#about-herself",
     "relUrl": "/#about-herself"
   },"38": {
@@ -335,24 +335,36 @@
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips",
     "relUrl": "/docs/tips"
   },"56": {
+    "doc": "Vim",
+    "title": "Vim",
+    "content": " ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vim/",
+    "relUrl": "/docs/tips/vim/"
+  },"57": {
+    "doc": "Vim",
+    "title": "Table of contents",
+    "content": ". Vim!! . ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vim/#table-of-contents",
+    "relUrl": "/docs/tips/vim/#table-of-contents"
+  },"58": {
     "doc": "VS Code",
     "title": "VS Code",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/",
     "relUrl": "/docs/tips/vscode/"
-  },"57": {
+  },"59": {
     "doc": "VS Code",
     "title": "Table of contents",
-    "content": ". | Cheat Sheet . | Command Palette | . | Extensions | . I know it’s quite useful if I know how to use it. There are too many extensions to use it well. ",
+    "content": ". | Shourtcuts for mac OS cheatsheet . | General | . | Extensions | . I know it’s quite useful if I know how to use it. There are too many functions to use it well. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#table-of-contents",
     "relUrl": "/docs/tips/vscode/#table-of-contents"
-  },"58": {
+  },"60": {
     "doc": "VS Code",
-    "title": "Cheat Sheet",
-    "content": "Command Palette . Command + Shift + P . ",
-    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#cheat-sheet",
-    "relUrl": "/docs/tips/vscode/#cheat-sheet"
-  },"59": {
+    "title": "Shourtcuts for mac OS cheatsheet",
+    "content": "General . | Key | Operation | . | Command + Shift + P | Show Command Palette | . | Command + P | Quick Open, Go to File | . ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#shourtcuts-for-mac-os-cheatsheet",
+    "relUrl": "/docs/tips/vscode/#shourtcuts-for-mac-os-cheatsheet"
+  },"61": {
     "doc": "VS Code",
     "title": "Extensions",
     "content": " ",

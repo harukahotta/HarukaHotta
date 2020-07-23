@@ -16,12 +16,16 @@ parent: Tips
 ---
 
 I know it's quite useful if I know how to use it.
-There are too many extensions to use it well.
+There are too many functions to use it well.
 
-## Cheat Sheet
+## Shourtcuts for mac OS [cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
-### Command Palette
-`Command + Shift + P`
+### General
+
+|  Key  |  Operation  |
+| ---- | ---- |
+|  `Command + Shift + P`  |  Show Command Palette  |
+|  `Command + P`  |  `Quick Open, Go to File`  |
 
 ## Extensions
 
