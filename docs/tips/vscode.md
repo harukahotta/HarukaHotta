@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VS Code
-parent: Tips 
+parent: Tips
 ---
 
 # VS Code
@@ -18,14 +18,15 @@ parent: Tips
 I know it's quite useful if I know how to use it.
 There are too many functions to use it well.
 
-## Shourtcuts for mac OS [cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+## Shourtcuts for mac OS
+[cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 ### General
 
 |  Key  |  Operation  |
 | ---- | ---- |
 |  `Command + Shift + P`  |  Show Command Palette  |
-|  `Command + P`  |  `Quick Open, Go to File`  |
+|  `Command + P`  |  Quick Open, Go to File  |
 
 ## Extensions
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Command
-parent: Tips 
+parent: Tips
 ---
 
 # Command
@@ -50,5 +50,22 @@ Useful commands.
 
 ### copy and paste file contents to clip board
 
-`pbcopy < hoge1.txt`
+`pbcopy < hoge1.txt`  
 `pbpaste > hoge2.txt`
+
+## hdf
+
+### hdf4
+
+`adp command file`  
+`list` Displays the contents of the HDF files in the specified format.  
+`dumpsds` Displays the contents of the SDSs in the listed files.  
+`dumpvd` Displays the contents of the vdata objects in the listed files.  
+`dumpvg` Displays the contents of the vgroup objects in the listed files.  
+
+### hdf5
+
+`h5dump [-option] file`  
+`-n` Displays a list of the objects in a file  
+`-H` Displays header information only (no data)
+
