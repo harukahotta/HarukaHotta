@@ -27,6 +27,7 @@ There are too many functions to use it well.
 | ---- | ---- |
 |  `Command + Shift + P`  |  Show Command Palette  |
 |  `Command + P`  |  Quick Open, Go to File  |
+|  `Control + Shift + ``  |  Open terminal |
 
 ## Extensions
 
