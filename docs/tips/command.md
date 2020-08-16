@@ -59,7 +59,7 @@ Useful commands.
 
 ### option
 
-`-u` Display user-oriented format
+`-u` Display user-oriented format  
 `ps aux | grep keyword`
 
 ## du 
@@ -68,9 +68,9 @@ display disk usage statistics
 
 ### option
 
-`-c`  Display a grand total.
-`-h`  "Human-readable" output.  Use unit suffixes: Byte, Kilobyte, Megabyte, Gigabyte, Terabyte and Petabyte.
-`-s`  Display an entry for each specified file.
+`-c`  Display a grand total.  
+`-h`  "Human-readable" output.  Use unit suffixes: Byte, Kilobyte, Megabyte, Gigabyte, Terabyte and Petabyte.  
+`-s`  Display an entry for each specified file.  
 du -shc ~/*
 
 ## hdf

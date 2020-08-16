@@ -263,147 +263,129 @@
     "url": "https://harukahotta.github.io/HarukaHotta/",
     "relUrl": "/"
   },"44": {
-    "doc": "Memo",
-    "title": "Memo",
-    "content": " ",
-    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/memo/",
-    "relUrl": "/docs/tips/memo/"
-  },"45": {
-    "doc": "Memo",
-    "title": "Table of contents",
-    "content": ". | Explore a word with dictionary | . Others . ",
-    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/memo/#table-of-contents",
-    "relUrl": "/docs/tips/memo/#table-of-contents"
-  },"46": {
-    "doc": "Memo",
-    "title": "Explore a word with dictionary",
-    "content": "open PDF file with preview and tap with three fingers . ",
-    "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/memo/#explore-a-word-with-dictionary",
-    "relUrl": "/docs/tips/memo/#explore-a-word-with-dictionary"
-  },"47": {
     "doc": "MIROC",
     "title": "MIROC",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/miroc/",
     "relUrl": "/docs/tools/miroc/"
-  },"48": {
+  },"45": {
     "doc": "MIROC",
     "title": "Table of contents",
     "content": ". Climate Model . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/miroc/#table-of-contents",
     "relUrl": "/docs/tools/miroc/#table-of-contents"
-  },"49": {
+  },"46": {
     "doc": "NICAM",
     "title": "NICAM",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/nicam/",
     "relUrl": "/docs/tools/nicam/"
-  },"50": {
+  },"47": {
     "doc": "NICAM",
     "title": "Table of contents",
     "content": ". Cloud-system resolving model . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/nicam/#table-of-contents",
     "relUrl": "/docs/tools/nicam/#table-of-contents"
-  },"51": {
+  },"48": {
     "doc": "Python",
     "title": "Python",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/python/",
     "relUrl": "/docs/tips/python/"
-  },"52": {
+  },"49": {
     "doc": "Python",
     "title": "Table of contents",
     "content": ". Modern language. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/python/#table-of-contents",
     "relUrl": "/docs/tips/python/#table-of-contents"
-  },"53": {
+  },"50": {
     "doc": "Research",
     "title": "Research",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/research",
     "relUrl": "/docs/research"
-  },"54": {
+  },"51": {
     "doc": "Search",
     "title": "Search",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/",
     "relUrl": "/docs/search/"
-  },"55": {
+  },"52": {
     "doc": "Search",
     "title": "Table of contents",
     "content": ". | Enable search in configuration . | Search granularity | Search previews | Search tokenizer | Display URL in search results | Display search button | . | Hiding pages from search | Generate search index when used as a gem | . Just the Docs uses lunr.js to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points: . | Page title | Page content | Page URL | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#table-of-contents",
     "relUrl": "/docs/search/#table-of-contents"
-  },"56": {
+  },"53": {
     "doc": "Search",
     "title": "Enable search in configuration",
     "content": "In your site’s _config.yml, enable search: . # Enable or disable the site search # Supports true (default) or false search_enabled: true . Search granularity . Pages are split into sections that can be searched individually. The sections are defined by the headings on the page. Each section is displayed in a separate search result. # Split pages into sections that can be searched individually # Supports 1 - 6, default: 2 search.heading_level: 2 . Search previews . A search result can contain previews that show where the search words are found in the specific section. # Maximum amount of previews per search result # Default: 3 search.previews: 3 # Maximum amount of words to display before a matched word in the preview # Default: 5 search.preview_words_before: 5 # Maximum amount of words to display after a matched word in the preview # Default: 10 search.preview_words_after: 10 . Search tokenizer . The default is for hyphens to separate tokens in search terms: gem-based is equivalent to gem based, matching either word. To allow search for hyphenated words: . # Set the search token separator # Default: /[\\s\\-/]+/ # Example: enable support for hyphenated search words search.tokenizer_separator: /[\\s/]+/ . Display URL in search results . # Display the relative url in search results # Supports true (default) or false search.rel_url: false . Display search button . The search button displays in the bottom right corner of the screen and triggers the search input when clicked. # Enable or disable the search button that appears in the bottom right corner of every page # Supports true or false (default) search.button: true . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#enable-search-in-configuration",
     "relUrl": "/docs/search/#enable-search-in-configuration"
-  },"57": {
+  },"54": {
     "doc": "Search",
     "title": "Hiding pages from search",
     "content": "Sometimes you might have a page that you don’t want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the search_exclude: true parameter to the page’s YAML front matter: . Example . --- layout: default title: Page not found nav_exclude: true search_exclude: true --- . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#hiding-pages-from-search",
     "relUrl": "/docs/search/#hiding-pages-from-search"
-  },"58": {
+  },"55": {
     "doc": "Search",
     "title": "Generate search index when used as a gem",
     "content": "If you use Just the Docs as a remote theme, you do not need the following steps. If you use the theme as a gem, you must initialize the search by running this rake command that comes with just-the-docs: . $ bundle exec just-the-docs rake search:init . This command creates the assets/js/zzzz-search-data.json file that Jekyll uses to create your search index. Alternatively, you can create the file manually with this content. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#generate-search-index-when-used-as-a-gem",
     "relUrl": "/docs/search/#generate-search-index-when-used-as-a-gem"
-  },"59": {
+  },"56": {
     "doc": "Tools",
     "title": "Utilities",
     "content": "Thank you tools! . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools#utilities",
     "relUrl": "/docs/tools#utilities"
-  },"60": {
+  },"57": {
     "doc": "Tools",
     "title": "Tools",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools",
     "relUrl": "/docs/tools"
-  },"61": {
+  },"58": {
     "doc": "Tips",
     "title": "Tips",
     "content": "I write these tips for myself. I am a Mac user. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips",
     "relUrl": "/docs/tips"
-  },"62": {
+  },"59": {
     "doc": "Vim",
     "title": "Vim",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vim/",
     "relUrl": "/docs/tips/vim/"
-  },"63": {
+  },"60": {
     "doc": "Vim",
     "title": "Table of contents",
     "content": ". Vim!! . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vim/#table-of-contents",
     "relUrl": "/docs/tips/vim/#table-of-contents"
-  },"64": {
+  },"61": {
     "doc": "VS Code",
     "title": "VS Code",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/",
     "relUrl": "/docs/tips/vscode/"
-  },"65": {
+  },"62": {
     "doc": "VS Code",
     "title": "Table of contents",
-    "content": ". | Shourtcuts for mac OS . | General | . | Extensions | . I know it’s quite useful if I know how to use it. There are too many functions to use it well. ",
+    "content": ". | Shourtcuts for mac OS . | General | . | Extensions . | Markdown-preview-enhanced . | import | code chunk | . | . | . I know it’s quite useful if I know how to use it. There are too many functions to use it well. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#table-of-contents",
     "relUrl": "/docs/tips/vscode/#table-of-contents"
-  },"66": {
+  },"63": {
     "doc": "VS Code",
     "title": "Shourtcuts for mac OS",
     "content": "cheatsheet . General . | Key | Operation | . | Command + Shift + P | Show Command Palette | . | Command + P | Quick Open, Go to File | . | Control + Shift + ` | Open terminal | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#shourtcuts-for-mac-os",
     "relUrl": "/docs/tips/vscode/#shourtcuts-for-mac-os"
-  },"67": {
+  },"64": {
     "doc": "VS Code",
     "title": "Extensions",
-    "content": " ",
+    "content": "Markdown-preview-enhanced . import . @import \"your_file\" . Configure images @import \"test.png\" {width=\"300px\" height=\"200px\" title=\"my title\" alt=\"my alt\"} . Import online file @import \"https://raw.githubusercontent.com/shd101wyy/markdown-preview-enhanced/master/LICENSE.md\" . Import certain lones @import \"test.md\" {line_begin=2 line_end=10} . Import file as Code Chunk @import \"test.py\" {cmd=\"python3\"} @import \"Hellow_World.sh\" {cmd=true} . reference . code chunk . ```bash {cmd=true} ls . ``` . ```python {cmd=true matplotlib=true} import matplotlib.pyplot as plt plt.plot([1,2,3, 4]) plt.show() # show figure ``` . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#extensions",
     "relUrl": "/docs/tips/vscode/#extensions"
   }
