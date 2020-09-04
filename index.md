@@ -25,7 +25,7 @@ Belong to [Suzuki Laboratory](http://157.82.240.167/)
 
 [Google Scholar Citation](https://scholar.google.com/citations?hl=en&user=QCeyeCUAAAAJ)
 
-[Research Gate](https://webrandum.net/markdown-gyazo/)
+[Research Gate](https://www.researchgate.net/profile/Haruka_Hotta)
 
 
 ## language (言語)

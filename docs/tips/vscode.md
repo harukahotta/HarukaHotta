@@ -47,7 +47,7 @@ Import certain lones
 `@import "test.md" {line_begin=2 line_end=10}`
 
 Import file as Code Chunk  
-`@import "test.py" {cmd="python3"}`
+`@import "test.py" {cmd="python3"}`  
 `@import "Hellow_World.sh" {cmd=true}`
 
 [reference](https://shd101wyy.github.io/markdown-preview-enhanced/#/file-imports)

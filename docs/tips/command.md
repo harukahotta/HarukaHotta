@@ -27,7 +27,7 @@ Useful commands.
 `-n` --line-number  
 `-r` --recursive  
 `-I` –binary-files=without-match  
-`--exclude-dir={.directory1,directory2}`
+`--exclude-dir={directory1,directory2}`
 
 ## find
 

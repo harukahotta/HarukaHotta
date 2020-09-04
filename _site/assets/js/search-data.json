@@ -85,7 +85,7 @@
   },"14": {
     "doc": "Command",
     "title": "grep",
-    "content": "grep [-option] pattern file . option . -i -ignore-case -n –line-number -r –recursive -I –binary-files=without-match --exclude-dir={.directory1,directory2} . ",
+    "content": "grep [-option] pattern file . option . -i -ignore-case -n –line-number -r –recursive -I –binary-files=without-match --exclude-dir={directory1,directory2} . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#grep",
     "relUrl": "/docs/tips/command/#grep"
   },"15": {
