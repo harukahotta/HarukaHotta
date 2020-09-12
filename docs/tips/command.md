@@ -41,6 +41,12 @@ Useful commands.
 
 ## less
 
+### commands
+
+`d` Scroll forward N lines, default one half of the screen size.
+
+`G or > or ESC->`  Go to line N in the file, default the end of the file.
+
 ### option
 
 `-i` --ignore-case
@@ -86,6 +92,6 @@ du -shc ~/*
 ### hdf5
 
 `h5dump [-option] file`  
-`-n` Displays a list of the objects in a file  
-`-H` Displays header information only (no data)
+`-n` Displays a list of the objects in a file.
+`-H` Displays header information only (no data).
 

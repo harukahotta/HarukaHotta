@@ -79,7 +79,7 @@
   },"13": {
     "doc": "Command",
     "title": "Table of contents",
-    "content": ". | grep . | option | . | find . | option | . | grep + find | less . | option | . | files . | copy and paste file contents to clip board | . | ps . | option | . | du . | option | . | hdf . | hdf4 | hdf5 | . | . Useful commands. ",
+    "content": ". | grep . | option | . | find . | option | . | grep + find | less . | commands | option | . | files . | copy and paste file contents to clip board | . | ps . | option | . | du . | option | . | hdf . | hdf4 | hdf5 | . | . Useful commands. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#table-of-contents",
     "relUrl": "/docs/tips/command/#table-of-contents"
   },"14": {
@@ -103,7 +103,7 @@
   },"17": {
     "doc": "Command",
     "title": "less",
-    "content": "option . -i –ignore-case . -M –LONG-PROMPT . ",
+    "content": "commands . d Scroll forward N lines, default one half of the screen size. G or &gt; or ESC-&gt; Go to line N in the file, default the end of the file. option . -i –ignore-case . -M –LONG-PROMPT . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#less",
     "relUrl": "/docs/tips/command/#less"
   },"18": {
@@ -127,7 +127,7 @@
   },"21": {
     "doc": "Command",
     "title": "hdf",
-    "content": "hdf4 . adp command file list Displays the contents of the HDF files in the specified format. dumpsds Displays the contents of the SDSs in the listed files. dumpvd Displays the contents of the vdata objects in the listed files. dumpvg Displays the contents of the vgroup objects in the listed files. hdf5 . h5dump [-option] file -n Displays a list of the objects in a file -H Displays header information only (no data) . ",
+    "content": "hdf4 . adp command file list Displays the contents of the HDF files in the specified format. dumpsds Displays the contents of the SDSs in the listed files. dumpvd Displays the contents of the vdata objects in the listed files. dumpvg Displays the contents of the vgroup objects in the listed files. hdf5 . h5dump [-option] file -n Displays a list of the objects in a file. -H Displays header information only (no data). ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#hdf",
     "relUrl": "/docs/tips/command/#hdf"
   },"22": {
@@ -335,17 +335,17 @@
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#generate-search-index-when-used-as-a-gem",
     "relUrl": "/docs/search/#generate-search-index-when-used-as-a-gem"
   },"56": {
-    "doc": "Tools",
-    "title": "Utilities",
-    "content": "Thank you tools! . ",
-    "url": "https://harukahotta.github.io/HarukaHotta/docs/tools#utilities",
-    "relUrl": "/docs/tools#utilities"
+    "doc": "read",
+    "title": "What I read",
+    "content": "What I read . ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/read#what-i-read",
+    "relUrl": "/docs/read#what-i-read"
   },"57": {
-    "doc": "Tools",
-    "title": "Tools",
+    "doc": "read",
+    "title": "read",
     "content": " ",
-    "url": "https://harukahotta.github.io/HarukaHotta/docs/tools",
-    "relUrl": "/docs/tools"
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/read",
+    "relUrl": "/docs/read"
   },"58": {
     "doc": "Tips",
     "title": "Tips",
@@ -353,40 +353,58 @@
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips",
     "relUrl": "/docs/tips"
   },"59": {
+    "doc": "Tools",
+    "title": "Utilities",
+    "content": "Thank you tools! . ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tools#utilities",
+    "relUrl": "/docs/tools#utilities"
+  },"60": {
+    "doc": "Tools",
+    "title": "Tools",
+    "content": " ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/tools",
+    "relUrl": "/docs/tools"
+  },"61": {
     "doc": "Vim",
     "title": "Vim",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vim/",
     "relUrl": "/docs/tips/vim/"
-  },"60": {
+  },"62": {
     "doc": "Vim",
     "title": "Table of contents",
     "content": ". Vim!! . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vim/#table-of-contents",
     "relUrl": "/docs/tips/vim/#table-of-contents"
-  },"61": {
+  },"63": {
     "doc": "VS Code",
     "title": "VS Code",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/",
     "relUrl": "/docs/tips/vscode/"
-  },"62": {
+  },"64": {
     "doc": "VS Code",
     "title": "Table of contents",
     "content": ". | Shourtcuts for mac OS . | General | . | Extensions . | Markdown-preview-enhanced . | import | code chunk | . | . | . I know it’s quite useful if I know how to use it. There are too many functions to use it well. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#table-of-contents",
     "relUrl": "/docs/tips/vscode/#table-of-contents"
-  },"63": {
+  },"65": {
     "doc": "VS Code",
     "title": "Shourtcuts for mac OS",
     "content": "cheatsheet . General . | Key | Operation | . | Command + Shift + P | Show Command Palette | . | Command + P | Quick Open, Go to File | . | Control + Shift + ` | Open terminal | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#shourtcuts-for-mac-os",
     "relUrl": "/docs/tips/vscode/#shourtcuts-for-mac-os"
-  },"64": {
+  },"66": {
     "doc": "VS Code",
     "title": "Extensions",
     "content": "Markdown-preview-enhanced . import . @import \"your_file\" . Configure images @import \"test.png\" {width=\"300px\" height=\"200px\" title=\"my title\" alt=\"my alt\"} . Import online file @import \"https://raw.githubusercontent.com/shd101wyy/markdown-preview-enhanced/master/LICENSE.md\" . Import certain lones @import \"test.md\" {line_begin=2 line_end=10} . Import file as Code Chunk @import \"test.py\" {cmd=\"python3\"} @import \"Hellow_World.sh\" {cmd=true} . reference . code chunk . ```bash {cmd=true} ls . ``` . ```python {cmd=true matplotlib=true} import matplotlib.pyplot as plt plt.plot([1,2,3, 4]) plt.show() # show figure ``` . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#extensions",
     "relUrl": "/docs/tips/vscode/#extensions"
+  },"67": {
+    "doc": "双極II型障害という病-改訂版うつ病新時代-",
+    "title": "双極II型障害という病-改訂版うつ病新時代-",
+    "content": "# 双極II型障害という病-改訂版うつ病新時代- {: .no_toc } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/read/%E5%8F%8C%E6%A5%B5II%E5%9E%8B%E9%9A%9C%E5%AE%B3%E3%81%A8%E3%81%84%E3%81%86%E7%97%85-%E6%94%B9%E8%A8%82%E7%89%88%E3%81%86%E3%81%A4%E7%97%85%E6%96%B0%E6%99%82%E4%BB%A3-/",
+    "relUrl": "/docs/read/%E5%8F%8C%E6%A5%B5II%E5%9E%8B%E9%9A%9C%E5%AE%B3%E3%81%A8%E3%81%84%E3%81%86%E7%97%85-%E6%94%B9%E8%A8%82%E7%89%88%E3%81%86%E3%81%A4%E7%97%85%E6%96%B0%E6%99%82%E4%BB%A3-/"
   }
 }
