@@ -47,364 +47,400 @@
     "url": "https://harukahotta.github.io/HarukaHotta/docs/research/aerosol/#as-cloud-nuclei",
     "relUrl": "/docs/research/aerosol/#as-cloud-nuclei"
   },"8": {
+    "doc": "読んだ本",
+    "title": "読んだ本のメモと感想",
+    "content": " ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/read/book/#%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC%E3%81%AE%E3%83%A1%E3%83%A2%E3%81%A8%E6%84%9F%E6%83%B3",
+    "relUrl": "/docs/read/book/#読んだ本のメモと感想"
+  },"9": {
+    "doc": "読んだ本",
+    "title": "Table of contents",
+    "content": ". | 双極II型障害という病-改訂版うつ病新時代- | . 双極II型障害という病-改訂版うつ病新時代- . 知り合いがおすすめしていたので読んだ。 双極II型障害とは、いわゆるうつ病層に「軽躁」を併せもつ気分障害。軽躁の際には調子よく感じることすらある。 この本には10件くらい疾患事例が載っているのだが、抑うつと軽躁の間をいったりきたりすること以外に共通項が見出せず、同じ疾患に分類されることが不思議だった。生理学的な病気の定義を明確にすることはできない？ . ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/read/book/#table-of-contents",
+    "relUrl": "/docs/read/book/#table-of-contents"
+  },"10": {
+    "doc": "読んだ本",
+    "title": "読んだ本",
+    "content": " ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/read/book/",
+    "relUrl": "/docs/read/book/"
+  },"11": {
     "doc": "Clouds",
     "title": "Clouds",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/research/clouds/",
     "relUrl": "/docs/research/clouds/"
-  },"9": {
+  },"12": {
     "doc": "Clouds",
     "title": "Table of contents",
     "content": ". | Clouds | Microphysics | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/research/clouds/#table-of-contents",
     "relUrl": "/docs/research/clouds/#table-of-contents"
-  },"10": {
+  },"13": {
     "doc": "Clouds",
     "title": "Clouds",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/research/clouds/",
     "relUrl": "/docs/research/clouds/"
-  },"11": {
+  },"14": {
     "doc": "Clouds",
     "title": "Microphysics",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/research/clouds/#microphysics",
     "relUrl": "/docs/research/clouds/#microphysics"
-  },"12": {
+  },"15": {
     "doc": "Command",
     "title": "Command",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/",
     "relUrl": "/docs/tips/command/"
-  },"13": {
+  },"16": {
     "doc": "Command",
     "title": "Table of contents",
     "content": ". | grep . | option | . | find . | option | . | grep + find | less . | commands | option | . | files . | copy and paste file contents to clip board | . | ps . | option | . | du . | option | . | hdf . | hdf4 | hdf5 | . | . Useful commands. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#table-of-contents",
     "relUrl": "/docs/tips/command/#table-of-contents"
-  },"14": {
+  },"17": {
     "doc": "Command",
     "title": "grep",
     "content": "grep [-option] pattern file . option . -i -ignore-case -n –line-number -r –recursive -I –binary-files=without-match --exclude-dir={directory1,directory2} . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#grep",
     "relUrl": "/docs/tips/command/#grep"
-  },"15": {
+  },"18": {
     "doc": "Command",
     "title": "find",
     "content": "option . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#find",
     "relUrl": "/docs/tips/command/#find"
-  },"16": {
+  },"19": {
     "doc": "Command",
     "title": "grep + find",
     "content": "find folder -type f | xargs grep pattern find ./ -name '*' | xargs grep hogehoge . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#grep--find",
     "relUrl": "/docs/tips/command/#grep--find"
-  },"17": {
+  },"20": {
     "doc": "Command",
     "title": "less",
     "content": "commands . d Scroll forward N lines, default one half of the screen size. G or &gt; or ESC-&gt; Go to line N in the file, default the end of the file. option . -i –ignore-case . -M –LONG-PROMPT . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#less",
     "relUrl": "/docs/tips/command/#less"
-  },"18": {
+  },"21": {
     "doc": "Command",
     "title": "files",
     "content": "copy and paste file contents to clip board . pbcopy &lt; hoge1.txt pbpaste &gt; hoge2.txt . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#files",
     "relUrl": "/docs/tips/command/#files"
-  },"19": {
+  },"22": {
     "doc": "Command",
     "title": "ps",
     "content": "option . -u Display user-oriented format ps aux | grep keyword . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#ps",
     "relUrl": "/docs/tips/command/#ps"
-  },"20": {
+  },"23": {
     "doc": "Command",
     "title": "du",
     "content": "display disk usage statistics . option . -c Display a grand total. -h “Human-readable” output. Use unit suffixes: Byte, Kilobyte, Megabyte, Gigabyte, Terabyte and Petabyte. -s Display an entry for each specified file. du -shc ~/* . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#du",
     "relUrl": "/docs/tips/command/#du"
-  },"21": {
+  },"24": {
     "doc": "Command",
     "title": "hdf",
     "content": "hdf4 . adp command file list Displays the contents of the HDF files in the specified format. dumpsds Displays the contents of the SDSs in the listed files. dumpvd Displays the contents of the vdata objects in the listed files. dumpvg Displays the contents of the vgroup objects in the listed files. hdf5 . h5dump [-option] file -n Displays a list of the objects in a file. -H Displays header information only (no data). ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/command/#hdf",
     "relUrl": "/docs/tips/command/#hdf"
-  },"22": {
+  },"25": {
     "doc": "Customization",
     "title": "Customization",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/",
     "relUrl": "/docs/customization/"
-  },"23": {
+  },"26": {
     "doc": "Customization",
     "title": "Table of contents",
     "content": ". | Color schemes | Custom schemes . | Define a custom scheme | Use a custom scheme | Switchable custom scheme | . | Override and completely custom styles | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/#table-of-contents",
     "relUrl": "/docs/customization/#table-of-contents"
-  },"24": {
+  },"27": {
     "doc": "Customization",
     "title": "Color schemes",
     "content": "New . Just the Docs supports two color schemes: light (default), and dark. To enable a color scheme, set the color_scheme parameter in your site’s _config.yml file: . Example . # Color scheme supports \"light\" (default) and \"dark\" color_scheme: dark . Preview dark color scheme . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/#color-schemes",
     "relUrl": "/docs/customization/#color-schemes"
-  },"25": {
+  },"28": {
     "doc": "Customization",
     "title": "Custom schemes",
     "content": "Define a custom scheme . You can add custom schemes. If you want to add a scheme named foo (can be any name) just add a file _sass/color_schemes/foo.scss (replace foo by your scheme name) where you override theme variables to change colors, fonts, spacing, etc. Available variables are listed in the _variables.scss file. For example, to change the link color from the purple default to blue, include the following inside your scheme file: . Example . $link-color: $blue-000; . Note: Editing the variables directly in _sass/support/variables.scss is not recommended and can cause other dependencies to fail. Please use scheme files. Use a custom scheme . To use the custom color scheme, only set the color_scheme parameter in your site’s _config.yml file: . color_scheme: foo . Switchable custom scheme . If you want to be able to change the scheme dynamically, for example via javascript, just add a file assets/css/just-the-docs-foo.scss (replace foo by your scheme name) with the following content:` . --- --- {% include css/just-the-docs.scss.liquid color_scheme=\"foo\" %} . This allows you to switch the scheme via the following javascript. jtd.setTheme('foo'); . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/#custom-schemes",
     "relUrl": "/docs/customization/#custom-schemes"
-  },"26": {
+  },"29": {
     "doc": "Customization",
     "title": "Override and completely custom styles",
     "content": "For styles that aren’t defined as variables, you may want to modify specific CSS classes. Additionally, you may want to add completely custom CSS specific to your content. To do this, put your styles in the file _sass/custom/custom.scss. This will allow for all overrides to be kept in a single file, and for any upstream changes to still be applied. For example, if you’d like to add your own styles for printing a page, you could add the following styles. Example . // Print-only styles. @media print { .side-bar, .page-header { display: none; } .main-content { max-width: auto; margin: 1em;} } . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/customization/#override-and-completely-custom-styles",
     "relUrl": "/docs/customization/#override-and-completely-custom-styles"
-  },"27": {
+  },"30": {
     "doc": "CV",
     "title": "CV",
     "content": "Publication etc . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/",
     "relUrl": "/docs/cv/"
-  },"28": {
+  },"31": {
     "doc": "CV",
     "title": "Table of contents",
     "content": ". | Publication | Presentation | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#table-of-contents",
     "relUrl": "/docs/cv/#table-of-contents"
-  },"29": {
+  },"32": {
     "doc": "CV",
     "title": "Publication",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#publication",
     "relUrl": "/docs/cv/#publication"
-  },"30": {
+  },"33": {
     "doc": "CV",
     "title": "Presentation",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#presentation",
     "relUrl": "/docs/cv/#presentation"
-  },"31": {
+  },"34": {
     "doc": "Fortran",
     "title": "Fortran",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/fortran/",
     "relUrl": "/docs/tips/fortran/"
-  },"32": {
+  },"35": {
     "doc": "Fortran",
     "title": "Table of contents",
     "content": ". | Bug fix . | compile option | size | . | IO . | read file | . | character . | character length | . | function and subroutine | . I don’t like Fortran 77 Basically use gfortran . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/fortran/#table-of-contents",
     "relUrl": "/docs/tips/fortran/#table-of-contents"
-  },"33": {
+  },"36": {
     "doc": "Fortran",
     "title": "Bug fix",
     "content": "compile option . gfortran -Wall -fbounds-check -O -Wuninitialized -ffpe-trap=invalid,zero,overflow -fbacktrace hoge.f90 . -fbounds-check Enable generation of run-time checks for array subscripts and against the declared minimum and maximum values. It also checks array indices for assumed and deferred shape arrays against the actual allocated bounds and ensures that all string lengths are equal for character array constructors without an explicit typespec. -Wall Enables commonly used warning options pertaining to usage that we recommend avoiding and that we believe are easy to avoid. -Wuninitialized Warn if an automatic variable is used without first being initialized. -ffpe-trap=invalid,zero,overflow invalid invalid floating point operation. zero division by zero, overflow overflow in a floating point operation. -fbacktrace When a runtime error is encountered or a deadly signal is emitted (segmentation fault, illegal instruction, bus error or floating-point exception), the Fortran runtime library should output a backtrace of the error. This option only has influence for compilation of the Fortran main program. -g . size . ulimit -s ulimit -s unlimited . gfororan -mcmodel=large hoge.f90 . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/fortran/#bug-fix",
     "relUrl": "/docs/tips/fortran/#bug-fix"
-  },"34": {
+  },"37": {
     "doc": "Fortran",
     "title": "IO",
     "content": "read file . integer :: ios open(..., iostat=ios, ...) if (ios &gt; 0) then write(*,*) 'Failed to open file for output' stop if (ios &lt; 0) then write(*,*) 'End of file' stop end if . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/fortran/#io",
     "relUrl": "/docs/tips/fortran/#io"
-  },"35": {
+  },"38": {
     "doc": "Fortran",
     "title": "character",
     "content": "character length . character(len=*), parameter :: text = 'initialization by this string' . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/fortran/#character",
     "relUrl": "/docs/tips/fortran/#character"
-  },"36": {
+  },"39": {
     "doc": "Fortran",
     "title": "function and subroutine",
     "content": "Variables defined in function/subroutine is independent from other function/subroutine and main program. program sample implicit none !main program stop contains real(4) function plus1(x) implicit none real(4) :: x plus1 = x + 1.0 return end function plus1 subroutine hello(name) implicit none character(len=*) :: name write(*,*) 'Hello ', name return end subroutine hello subroutine add(a, b, c) implicit none real(4), intent(in) :: a, b real(4), intent(out) :: c c = a + b end subroutine add end program sample . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/fortran/#function-and-subroutine",
     "relUrl": "/docs/tips/fortran/#function-and-subroutine"
-  },"37": {
+  },"40": {
     "doc": "Markdown kitchen sink",
     "title": "Header 1",
     "content": "This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/index-test/#header-1",
     "relUrl": "/docs/index-test/#header-1"
-  },"38": {
+  },"41": {
     "doc": "Markdown kitchen sink",
     "title": "Header 2",
     "content": "This is a blockquote following a header. When something is important enough, you do it even if the odds are not in your favor. Header 3 . // Javascript code with syntax highlighting. var fun = function lang(l) { dateformat.i18n = require('./lang/' + l) return true; } . # Ruby code with syntax highlighting GitHubPages::Dependencies.gems.each do |gem, version| s.add_dependency(gem, \"= #{version}\") end . Header 4 . | This is an unordered list following a header. | This is an unordered list following a header. | This is an unordered list following a header. | . Header 5 . | This is an ordered list following a header. | This is an ordered list following a header. | This is an ordered list following a header. | . Header 6 . | head1 | head two | three | . | ok | good swedish fish | nice | . | out of stock | good and plenty | nice | . | ok | good oreos | hmm | . | ok | good zoute drop | yumm | . There’s a horizontal rule below this. Here is an unordered list: . | Item foo | Item bar | Item baz | Item zip | . And an ordered list: . | Item one | Item two | Item three | Item four | . And a nested list: . | level 1 item . | level 2 item | level 2 item . | level 3 item | level 3 item | . | . | level 1 item . | level 2 item | level 2 item | level 2 item | . | level 1 item . | level 2 item | level 2 item | . | level 1 item | . Nesting an ol in ul in an ol . | level 1 item (ul) . | level 2 item (ol) | level 2 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | . | level 1 item (ul) . | level 2 item (ol) | level 2 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | level 4 item (ol) | level 4 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | . | level 1 item (ul) | . And a task list . | Hello, this is a TODO item | Hello, this is another TODO item | Goodbye, this item is done | . Small image . Large image . Definition lists can be used with HTML syntax. Name Godzilla Born 1952 Birthplace Japan Color Green Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. The final element. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/index-test/#header-2",
     "relUrl": "/docs/index-test/#header-2"
-  },"39": {
+  },"42": {
     "doc": "Markdown kitchen sink",
     "title": "Markdown kitchen sink",
     "content": "Text can be bold, italic, or strikethrough. Link to another page. There should be whitespace between paragraphs. There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/index-test/",
     "relUrl": "/docs/index-test/"
-  },"40": {
+  },"43": {
     "doc": "Home",
     "title": "Haruka Hotta(she/her)",
     "content": "Ph.D. student . ",
     "url": "https://harukahotta.github.io/HarukaHotta/#haruka-hottasheher",
     "relUrl": "/#haruka-hottasheher"
-  },"41": {
+  },"44": {
     "doc": "Home",
     "title": "Basic information",
     "content": "Atmospheric and Ocean Research Institute, Tokyo University. Belong to Suzuki Laboratory . ORCiD ID . Google Scholar Citation . Research Gate . ",
     "url": "https://harukahotta.github.io/HarukaHotta/#basic-information",
     "relUrl": "/#basic-information"
-  },"42": {
+  },"45": {
     "doc": "Home",
     "title": "language (言語)",
     "content": "English/日本語 . ",
     "url": "https://harukahotta.github.io/HarukaHotta/#language-%E8%A8%80%E8%AA%9E",
     "relUrl": "/#language-言語"
-  },"43": {
+  },"46": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/",
     "relUrl": "/"
-  },"44": {
+  },"47": {
     "doc": "MIROC",
     "title": "MIROC",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/miroc/",
     "relUrl": "/docs/tools/miroc/"
-  },"45": {
+  },"48": {
     "doc": "MIROC",
     "title": "Table of contents",
     "content": ". Climate Model . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/miroc/#table-of-contents",
     "relUrl": "/docs/tools/miroc/#table-of-contents"
-  },"46": {
+  },"49": {
     "doc": "NICAM",
     "title": "NICAM",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/nicam/",
     "relUrl": "/docs/tools/nicam/"
-  },"47": {
+  },"50": {
     "doc": "NICAM",
     "title": "Table of contents",
     "content": ". Cloud-system resolving model . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/nicam/#table-of-contents",
     "relUrl": "/docs/tools/nicam/#table-of-contents"
-  },"48": {
+  },"51": {
+    "doc": "個人的な内容",
+    "title": "個人的な内容",
+    "content": " ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/Blog/person/",
+    "relUrl": "/docs/Blog/person/"
+  },"52": {
+    "doc": "個人的な内容",
+    "title": "Table of contents",
+    "content": ". ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/Blog/person/#table-of-contents",
+    "relUrl": "/docs/Blog/person/#table-of-contents"
+  },"53": {
     "doc": "Python",
     "title": "Python",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/python/",
     "relUrl": "/docs/tips/python/"
-  },"49": {
+  },"54": {
     "doc": "Python",
     "title": "Table of contents",
     "content": ". Modern language. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/python/#table-of-contents",
     "relUrl": "/docs/tips/python/#table-of-contents"
-  },"50": {
+  },"55": {
     "doc": "Research",
     "title": "Research",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/research",
     "relUrl": "/docs/research"
-  },"51": {
+  },"56": {
     "doc": "Search",
     "title": "Search",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/",
     "relUrl": "/docs/search/"
-  },"52": {
+  },"57": {
     "doc": "Search",
     "title": "Table of contents",
     "content": ". | Enable search in configuration . | Search granularity | Search previews | Search tokenizer | Display URL in search results | Display search button | . | Hiding pages from search | Generate search index when used as a gem | . Just the Docs uses lunr.js to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points: . | Page title | Page content | Page URL | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#table-of-contents",
     "relUrl": "/docs/search/#table-of-contents"
-  },"53": {
+  },"58": {
     "doc": "Search",
     "title": "Enable search in configuration",
     "content": "In your site’s _config.yml, enable search: . # Enable or disable the site search # Supports true (default) or false search_enabled: true . Search granularity . Pages are split into sections that can be searched individually. The sections are defined by the headings on the page. Each section is displayed in a separate search result. # Split pages into sections that can be searched individually # Supports 1 - 6, default: 2 search.heading_level: 2 . Search previews . A search result can contain previews that show where the search words are found in the specific section. # Maximum amount of previews per search result # Default: 3 search.previews: 3 # Maximum amount of words to display before a matched word in the preview # Default: 5 search.preview_words_before: 5 # Maximum amount of words to display after a matched word in the preview # Default: 10 search.preview_words_after: 10 . Search tokenizer . The default is for hyphens to separate tokens in search terms: gem-based is equivalent to gem based, matching either word. To allow search for hyphenated words: . # Set the search token separator # Default: /[\\s\\-/]+/ # Example: enable support for hyphenated search words search.tokenizer_separator: /[\\s/]+/ . Display URL in search results . # Display the relative url in search results # Supports true (default) or false search.rel_url: false . Display search button . The search button displays in the bottom right corner of the screen and triggers the search input when clicked. # Enable or disable the search button that appears in the bottom right corner of every page # Supports true or false (default) search.button: true . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#enable-search-in-configuration",
     "relUrl": "/docs/search/#enable-search-in-configuration"
-  },"54": {
+  },"59": {
     "doc": "Search",
     "title": "Hiding pages from search",
     "content": "Sometimes you might have a page that you don’t want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the search_exclude: true parameter to the page’s YAML front matter: . Example . --- layout: default title: Page not found nav_exclude: true search_exclude: true --- . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#hiding-pages-from-search",
     "relUrl": "/docs/search/#hiding-pages-from-search"
-  },"55": {
+  },"60": {
     "doc": "Search",
     "title": "Generate search index when used as a gem",
     "content": "If you use Just the Docs as a remote theme, you do not need the following steps. If you use the theme as a gem, you must initialize the search by running this rake command that comes with just-the-docs: . $ bundle exec just-the-docs rake search:init . This command creates the assets/js/zzzz-search-data.json file that Jekyll uses to create your search index. Alternatively, you can create the file manually with this content. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#generate-search-index-when-used-as-a-gem",
     "relUrl": "/docs/search/#generate-search-index-when-used-as-a-gem"
-  },"56": {
+  },"61": {
     "doc": "read",
     "title": "What I read",
     "content": "What I read . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/read#what-i-read",
     "relUrl": "/docs/read#what-i-read"
-  },"57": {
+  },"62": {
     "doc": "read",
     "title": "read",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/read",
     "relUrl": "/docs/read"
-  },"58": {
+  },"63": {
     "doc": "Tips",
     "title": "Tips",
     "content": "I write these tips for myself. I am a Mac user. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips",
     "relUrl": "/docs/tips"
-  },"59": {
+  },"64": {
+    "doc": "Blog",
+    "title": "ブログ。",
+    "content": "発信したい何か。ここは日本語だなあ。 . ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/Blog#%E3%83%96%E3%83%AD%E3%82%B0",
+    "relUrl": "/docs/Blog#ブログ"
+  },"65": {
+    "doc": "Blog",
+    "title": "Blog",
+    "content": " ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/Blog",
+    "relUrl": "/docs/Blog"
+  },"66": {
     "doc": "Tools",
     "title": "Utilities",
     "content": "Thank you tools! . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools#utilities",
     "relUrl": "/docs/tools#utilities"
-  },"60": {
+  },"67": {
     "doc": "Tools",
     "title": "Tools",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools",
     "relUrl": "/docs/tools"
-  },"61": {
+  },"68": {
     "doc": "Vim",
     "title": "Vim",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vim/",
     "relUrl": "/docs/tips/vim/"
-  },"62": {
+  },"69": {
     "doc": "Vim",
     "title": "Table of contents",
     "content": ". Vim!! . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vim/#table-of-contents",
     "relUrl": "/docs/tips/vim/#table-of-contents"
-  },"63": {
+  },"70": {
     "doc": "VS Code",
     "title": "VS Code",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/",
     "relUrl": "/docs/tips/vscode/"
-  },"64": {
+  },"71": {
     "doc": "VS Code",
     "title": "Table of contents",
     "content": ". | Shourtcuts for mac OS . | General | . | Extensions . | Markdown-preview-enhanced . | import | code chunk | . | . | . I know it’s quite useful if I know how to use it. There are too many functions to use it well. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#table-of-contents",
     "relUrl": "/docs/tips/vscode/#table-of-contents"
-  },"65": {
+  },"72": {
     "doc": "VS Code",
     "title": "Shourtcuts for mac OS",
     "content": "cheatsheet . General . | Key | Operation | . | Command + Shift + P | Show Command Palette | . | Command + P | Quick Open, Go to File | . | Control + Shift + ` | Open terminal | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#shourtcuts-for-mac-os",
     "relUrl": "/docs/tips/vscode/#shourtcuts-for-mac-os"
-  },"66": {
+  },"73": {
     "doc": "VS Code",
     "title": "Extensions",
     "content": "Markdown-preview-enhanced . import . @import \"your_file\" . Configure images @import \"test.png\" {width=\"300px\" height=\"200px\" title=\"my title\" alt=\"my alt\"} . Import online file @import \"https://raw.githubusercontent.com/shd101wyy/markdown-preview-enhanced/master/LICENSE.md\" . Import certain lones @import \"test.md\" {line_begin=2 line_end=10} . Import file as Code Chunk @import \"test.py\" {cmd=\"python3\"} @import \"Hellow_World.sh\" {cmd=true} . reference . code chunk . ```bash {cmd=true} ls . ``` . ```python {cmd=true matplotlib=true} import matplotlib.pyplot as plt plt.plot([1,2,3, 4]) plt.show() # show figure ``` . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#extensions",
     "relUrl": "/docs/tips/vscode/#extensions"
-  },"67": {
-    "doc": "双極II型障害という病-改訂版うつ病新時代-",
-    "title": "双極II型障害という病-改訂版うつ病新時代-",
-    "content": "# 双極II型障害という病-改訂版うつ病新時代- {: .no_toc } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ",
-    "url": "https://harukahotta.github.io/HarukaHotta/docs/read/%E5%8F%8C%E6%A5%B5II%E5%9E%8B%E9%9A%9C%E5%AE%B3%E3%81%A8%E3%81%84%E3%81%86%E7%97%85-%E6%94%B9%E8%A8%82%E7%89%88%E3%81%86%E3%81%A4%E7%97%85%E6%96%B0%E6%99%82%E4%BB%A3-/",
-    "relUrl": "/docs/read/%E5%8F%8C%E6%A5%B5II%E5%9E%8B%E9%9A%9C%E5%AE%B3%E3%81%A8%E3%81%84%E3%81%86%E7%97%85-%E6%94%B9%E8%A8%82%E7%89%88%E3%81%86%E3%81%A4%E7%97%85%E6%96%B0%E6%99%82%E4%BB%A3-/"
   }
 }
