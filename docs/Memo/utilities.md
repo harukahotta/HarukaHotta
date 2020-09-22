@@ -1,13 +1,13 @@
 ---
 layout: default
-title: read
+title: Memo
 nav_order: 6
 has_children: true
-permalink: docs/read
+permalink: docs/Media
 ---
 
-# What I read
+# What I read and watched
 {: .no_toc }
 
-What I read
+What I read and watched
 {: .fs-6 .fw-300 }
