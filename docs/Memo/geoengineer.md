@@ -21,9 +21,13 @@ parent: Memo
 
 **内容に強い興味をお持ちの方は、元の記事を参照ください**
 
+### [Can Geoengineering Fix the Climate Crisis?](https://www.vice.com/en_us/article/9354y5/geoengineering-climate-change "Can Geoengineering Fix the Climate Crisis?")
+
+### [How to stop global warming? The most controversial solutions explained](https://chinadialogue.net/en/climate/geoengineering-how-to-stop-global-warming-most-controversial-solutions-explained/ "How to stop global warming? The most controversial solutions explained")
+
 ### [Who Governs Climate Intervention and Geoengineering on the High Seas?](https://www.maritime-executive.com/editorials/who-governs-climate-intervention-and-geoengineering-on-the-high-seas "Who Governs Climate Intervention and Geoengineering on the High Seas?")
 
-### [](https://www.ecowatch.com/solar-geoengineering-climate-crisis-2647709342.html?rebelltitem=1#rebelltitem1 "Why Solar Geoengineering Should Be Part of the Climate Crisis Solution")
+### [Why Solar Geoengineering Should Be Part of the Climate Crisis Solution](https://www.ecowatch.com/solar-geoengineering-climate-crisis-2647709342.html?rebelltitem=1#rebelltitem1 "Why Solar Geoengineering Should Be Part of the Climate Crisis Solution")
 
 
 - 本文より
