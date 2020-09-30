@@ -6,7 +6,7 @@ description: "My site"
 permalink: /
 ---
 
-# Haruka Hotta(she/her)
+# 堀田陽香 Haruka Hotta(she/her)
 {: .fs-9 }
 
 Ph.D. student
@@ -32,3 +32,7 @@ Belong to [Suzuki Laboratory](http://157.82.240.167/)
 
 English/日本語
 
+## 質問・問い合わせなど
+
+公式なものは、大学のメールアドレスへ Official Question (hotta @ aori.u-tokyo.ac.jp)
+雑多なものは、質問箱へ Casual Question [堀田陽香への質問箱](https://forms.gle/Km67zhKnsHNJNsFv6 "堀田陽香への質問箱")

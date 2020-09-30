@@ -276,10 +276,10 @@
     "relUrl": "/docs/index-test/"
   },"46": {
     "doc": "Home",
-    "title": "Haruka Hotta(she/her)",
+    "title": "堀田陽香 Haruka Hotta(she/her)",
     "content": "Ph.D. student . ",
-    "url": "https://harukahotta.github.io/HarukaHotta/#haruka-hottasheher",
-    "relUrl": "/#haruka-hottasheher"
+    "url": "https://harukahotta.github.io/HarukaHotta/#%E5%A0%80%E7%94%B0%E9%99%BD%E9%A6%99-haruka-hottasheher",
+    "relUrl": "/#堀田陽香-haruka-hottasheher"
   },"47": {
     "doc": "Home",
     "title": "Basic information",
@@ -294,191 +294,197 @@
     "relUrl": "/#language-言語"
   },"49": {
     "doc": "Home",
+    "title": "質問・問い合わせなど",
+    "content": "公式なものは、大学のメールアドレスへ Official Question (hotta @ aori.u-tokyo.ac.jp) 雑多なものは、質問箱へ Casual Question 堀田陽香への質問箱 . ",
+    "url": "https://harukahotta.github.io/HarukaHotta/#%E8%B3%AA%E5%95%8F%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%81%AA%E3%81%A9",
+    "relUrl": "/#質問問い合わせなど"
+  },"50": {
+    "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/",
     "relUrl": "/"
-  },"50": {
+  },"51": {
     "doc": "MIROC",
     "title": "MIROC",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/miroc/",
     "relUrl": "/docs/tools/miroc/"
-  },"51": {
+  },"52": {
     "doc": "MIROC",
     "title": "Table of contents",
     "content": ". Climate Model . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/miroc/#table-of-contents",
     "relUrl": "/docs/tools/miroc/#table-of-contents"
-  },"52": {
+  },"53": {
     "doc": "NICAM",
     "title": "NICAM",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/nicam/",
     "relUrl": "/docs/tools/nicam/"
-  },"53": {
+  },"54": {
     "doc": "NICAM",
     "title": "Table of contents",
     "content": ". Cloud-system resolving model . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/nicam/#table-of-contents",
     "relUrl": "/docs/tools/nicam/#table-of-contents"
-  },"54": {
+  },"55": {
     "doc": 2020.09,
     "title": "2020.09",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Blog/person/#202009",
     "relUrl": "/docs/Blog/person/#202009"
-  },"55": {
+  },"56": {
     "doc": 2020.09,
     "title": "Table of contents",
-    "content": ". | Adjust to the speed of my understanding | My opinion on geoengineering is unestablished | Why I chose to be a Ph. D. student. | The name to call someone | Looking Forward to Translation Konjac | Effect of COVID-19 on My Ph. D. Student Life | なぜブログを書こうと思ったか？ | . Adjust to the speed of my understanding . 読む聞く書くを 理解するスピードに合わせる . 新学期が始まった。学生の権利を生かして、今期も何個か授業をとる予定である。オンラインだと、色んな授業をききやすくて便利である。 . こう言っておいてなんだが、私は授業やセミナーのリアルタイム聴講を上手に活用できない。 よく分からない話を何も理解しないまま終わることがほとんどで、ときたまの知っている話では退屈している。 話される内容に対し、自分が理解する解像度を調節できていないことが、問題なのだろう。 色んな聞き手がいる以上、話し手が聞き手の理解度に合わせることには限度がある。 ライブを有効活用するためには、聞き手が聞く内容を適切にフィルターにかけて、理解できるフラックスにする技術がいるということだ。 . 資料や論文を読むときは時間制限もないので、読むスピードを理解するスピードに合わせることが出来る。論文から要点だけ拾って読むこともたまにやるが、これもそれなりに出来る気がする。 . さて今日の授業では、いつもパソコンでタイプしているメモを、久しぶりに手書きで取ってみた。書く手間が増えるにも関わらず、手書きの方が理解が進む気がした。 タイピングでは全てを文字に起こそうと躍起になって、理解が追いつかないままメモしていたのだろう。なんでも速ければいいわけではない。 . このブログも、読者の読むスピードと理解するスピードが一致するような、舌足らずでも冗長でもない文を書きたいと思っているのだが、はてさて。 . 2020.09.28 . My opinion on geoengineering is unestablished . 気候工学についての個人的見解、がまだ確立できていない . 人為起源の温室効果ガスが地球温暖化を引き起こしていることはほぼ間違いない、今後も対策を講じなければ温暖化が進行する、 と気候学者は警笛を鳴らしている。しかし、人類が温暖化対策を十分に進めているとは言い難いのが現状だ。 . 温室効果ガス排出を抑制することが困難ならば、気候工学を積極的に導入すべきだ私は考えている。 気候工学（ジオエンジニアリング）とは、”「人為的な気候変動の対策として行う意図的な惑星環境の大規模改変」である” 杉山ら 2012 . この場で気候工学について自論をバチバチに展開したいところだが、それはできない。 なぜならば、現状の私は気候工学の技術的・社会的課題について十分な知識を持っておらず、またそのような自覚ゆえ自分の意見に自信がないためだ。 . 今後一年で . | 気候工学の技術的課題 | 気候工学の社会的課題 | 気候学者がこれらの課題解決のために貢献できること | . を学び、責任を持って自分の意見を発信できるようになりたい。 本HPのgeoengineer コーナーはそのための一環である。 . 2020.09.27 . Why I chose to be a Ph. D. student. なぜ私は博士後期課程に進学したか . 「自分が最も信頼している”科学”なるものに貢献することは、間違ったことにならないだろう」と思ったのが、一番大きな要因。 . 科学は信頼しているが、科学の力を全面的に支持することはできないなぁ、とこの頃感じてもやもやしている。 . 2020.09.26 . The name to call someone . 呼び名 . 戸籍上の名前は唯一でも、その人に対する呼び名には選ぶ余地があり、そこから一つ選ぶことはときに難しい。 . 私は原則として同世代に対して、年上は名字＋さん、同級生以下は男性は名字＋くん・女性は名字＋さんを使っていた。 . ところが先日、くんorさんのどちらで呼ぶべきか分からない場面があった。どう呼ぶべきか尋ねることもはばかられたし、相手も決めかねるかもしれなかった。 この出来事がきっかけで、性別によって呼び名を変えるという私が採用していた方法は、自分の推測する性別を相手に押しつけ、相手に違和感や不快感を抱かせていたかもしれないと気づいた。 . そこで最近は原則として、くん付けをやめてさん付けor呼び捨てを使っている。さん付けはくん付けよりも距離感を感じる呼び名だと思っているので、まだくん付けもときどき使っているが。これまで〇〇くんで呼んでいたのが〇〇さんになったのは、距離を置こうとしているためではないのだ。呼び名のリクエストがある方は、遠慮なく教えてほしい。 . ちなみに私は名字＋ちゃんで呼ばれて嫌だったことはないし、半ば愛称と化して気に入った呼び名だ。 . 2020.09.25 . Looking Forward to Translation Konjac . ほんやくこんにゃくはいつ . 昨夜、とある英会話コミュニティに一年ぶりに参加した。一年ぶりなのに覚えてくださっている方がいた。 “I major in meteorology”は、いつも発音が悪くて通じない。 ハリー・ポッターのスリザリンは、slither（ずるずる滑る・這う）に由来してるんですって。こんなレアな単語は知らなかったけど、豆知識として面白い。 . 同級生と比較して、英語の文構造をとるのは下手ではないし、語彙が少ないほうでもないと思っている。ただし学部の頃から、聞くこと喋ることへの苦手意識はずっとあった。 . 猛烈に英会話を練習しはじめたのは、昨年夏にアメリカのサマースクールに参加したことがきっかけである。20人超の参加学生の中で、私は圧倒的に英語ができなかった。雑談に入れないこともストレスだったが、特に全体ディスカッションで、言語が壁となって主張したいことが言えずにとても悔しい思いをした。 . ここ一年で、心優しいスピーカーと一対一で会話する能力は、だいぶ身についた、つもり。ただしネイティブ同士のやりとりは聞き取れないし、国際学会は英語を聞き流してスライドを凝視しているし、考えながら話すスピードは遅い。英語のディスカッションにフル参加するにはまだまだである。 読むスピードもあげたい。現状は読み書きを自動翻訳を頼るのが最速なのだが、読む方はなるべく原文を参照したい。書く方はこの際、ツールに頼り続けた方が時間を節約できていいかもしれない。 . 英語を使う仕事をしたい気がしているので、今後も英語は勉強するつもり。将来ほんやくこんにゃくが開発されたら便利だけど、それまで勉強してきたことがちょっと残念になるかもしれない . 2020.09.24 . Effect of COVID-19 on My Ph. D. Student Life . 博士生活におけるコロナの影響 . | 要旨 | . 交流する方が限られる。研究すること以外に、色々な方と会話することが大学院にいる意義だと思っているので残念。 . | 本文 | . 個人的な博士生活にコロナがもたらした変化について書く。 知り合いしか読んでいないと思うが、私は気象学を専攻する博士後期課程２年生である。研究の作業は全てパソコンで完結するので、研究を進める上でコロナウイルスによる実用上の被害は極めて小さい。 . コロナに大きく影響を受けたのは、交友関係である。4,5月は登校がほとんど不可能だった。6月以降は規制がだいぶ緩和され、私は平日ほぼ毎日登校している。しかし授業もセミナーも全てオンラインに移行したので、登校する必要はない。一度も登校していない大学院生もおり、登校する人しない人で分かれている。オンラインのチャットや飲み会は盛んで大変楽しいが、メンバーが固定されてしまっているのは残念である。 . 学会も当面はオンライン開催の気配である。学会自体には、オンラインに移行してむしろ参加しやすくなった。しかしいかんせん、研究者と雑談する機会がない。 「何のために研究しているんですか？」「研究成果によっては、地球温暖化を加速させる方に世界を動かすことになりますがいいんですか？」みたいな尖った質問を、オンラインでするのははばかられる。そもそも４月以降、研究者はごく身近な方々としか会話していない。 雑談のためにアポイントとることもできないし、新しいコネクションを作ることも難しいと感じている。 . もしこれを読んでいる方がいたら、ぜひ飲み会に誘ってください。完。 . 2020.09.23 . なぜブログを書こうと思ったか？ . | 要約 | . 自己表現することが機会獲得につながると思うから。 . | 本文 | . ブログ初投稿なので、まずは投稿の動機を書く。 . 自分の意見や行動原理を自分の言葉で説明できる、聡明な人を尊敬する。私もそうなりたいし、そのような人のそばにいたいが、自分といることをメリットに感じてもらえるような崇高な理念や高いスキル・希有な経験は残念ながら持ち合わせていない。せめて「ブログで色々発信している人」というステータスを足すことで、面白がってもらえる可能性が上がるのではと考えた。 さらにはブログのために調べものをしたり、意見をまとめたり、長い文章を書くことでスキルを上げたいという思惑もある。 . これまで個人的意見を実名で世に出したことはあまりない。知り合いに煙たがれることが怖かったのだ。ところが最近、私の意見を真剣に聞きそのまま受け止めてくれる方々に恵まれていることに気づいた。大変ありがたい。今は任意の誰かに批判されることも、ブログ書くような人だったんだとびっくりされることも、さほど恐れていない。ブログのせいで距離を置くような人と、素で付き合う必要はない。 . ブログにする内容は取捨選択するが、未熟さを含めて正直な考えを伝える場として運営しようと思う。そのうちコンテンツ不足になりそうなので、議題のリクエストがあったら教えてください。 . ここまで書いて、伊坂幸太郎「魔王」に影響を受けた一連の行動だなと感じた。 . さて、ブログがこの一件だけになるとダサいんで、もう何件か投稿するぞー！！ . 2020.09.22 . ",
+    "content": ". | Questions to me | Prince Shotoku is unbelievable | Adjust to the speed of my understanding | My opinion on geoengineering is unestablished | Why I chose to be a Ph. D. student. | The name to call someone | Looking Forward to Translation Konjac | Effect of COVID-19 on My Ph. D. Student Life | なぜブログを書こうと思ったか？ | . Questions to me . 質問箱を置きました . ブログにコメント機能が欲しいと思ったんだが、実装がややめんどくさそうだったので、とりあえずでGoogle Formを設置した。 . 堀田陽香への質問箱 . HPのTopにも置いてあります。 . よろしければ、暇つぶしになんか聞いてみてください。嬉しいです。悪意のある質問以外は回答するようにします。 . 2020.09.30 . Prince Shotoku is unbelievable . 聖徳太子にはなれない . 今日は聞きたいセミナーと授業の時間が被っていたので、試しに同時に聴いてみたが、予想通り全然成立しなかった。 普段から研究中に音楽を聴くこともできない質なので、両立できるわけがなかった。 . 2020.09.29 . Adjust to the speed of my understanding . 読む聞く書くを 理解するスピードに合わせる . 新学期が始まった。学生の権利を生かして、今期も何個か授業をとる予定である。オンラインだと、色んな授業をききやすくて便利である。 . こう言っておいてなんだが、私は授業やセミナーのリアルタイム聴講を上手に活用できない。 よく分からない話を何も理解しないまま終わることがほとんどで、ときたまの知っている話では退屈している。 話される内容に対し、自分が理解する解像度を調節できていないことが、問題なのだろう。 色んな聞き手がいる以上、話し手が聞き手の理解度に合わせることには限度がある。 ライブを有効活用するためには、聞き手が聞く内容を適切にフィルターにかけて、理解できるフラックスにする技術がいるということだ。 . 資料や論文を読むときは時間制限もないので、読むスピードを理解するスピードに合わせることが出来る。論文から要点だけ拾って読むこともたまにやるが、これもそれなりに出来る気がする。 . さて今日の授業では、いつもパソコンでタイプしているメモを、久しぶりに手書きで取ってみた。書く手間が増えるにも関わらず、手書きの方が理解が進む気がした。 タイピングでは全てを文字に起こそうと躍起になって、理解が追いつかないままメモしていたのだろう。なんでも速ければいいわけではない。 . このブログも、読者の読むスピードと理解するスピードが一致するような、舌足らずでも冗長でもない文を書きたいと思っているのだが、はてさて。 . 2020.09.28 . My opinion on geoengineering is unestablished . 気候工学についての個人的見解、がまだ確立できていない . 人為起源の温室効果ガスが地球温暖化を引き起こしていることはほぼ間違いない、今後も対策を講じなければ温暖化が進行する、 と気候学者は警笛を鳴らしている。しかし、人類が温暖化対策を十分に進めているとは言い難いのが現状だ。 . 温室効果ガス排出を抑制することが困難ならば、気候工学を積極的に導入すべきだ私は考えている。 気候工学（ジオエンジニアリング）とは、”「人為的な気候変動の対策として行う意図的な惑星環境の大規模改変」である” 杉山ら 2012 . この場で気候工学について自論をバチバチに展開したいところだが、それはできない。 なぜならば、現状の私は気候工学の技術的・社会的課題について十分な知識を持っておらず、またそのような自覚ゆえ自分の意見に自信がないためだ。 . 今後一年で . | 気候工学の技術的課題 | 気候工学の社会的課題 | 気候学者がこれらの課題解決のために貢献できること | . を学び、責任を持って自分の意見を発信できるようになりたい。 本HPのgeoengineer コーナーはそのための一環である。 . 2020.09.27 . Why I chose to be a Ph. D. student. なぜ私は博士後期課程に進学したか . 「自分が最も信頼している”科学”なるものに貢献することは、間違ったことにならないだろう」と思ったのが、一番大きな要因。 . 科学は信頼しているが、科学の力を全面的に支持することはできないなぁ、とこの頃感じてもやもやしている。 . 2020.09.26 . The name to call someone . 呼び名 . 戸籍上の名前は唯一でも、その人に対する呼び名には選ぶ余地があり、そこから一つ選ぶことはときに難しい。 . 私は原則として同世代に対して、年上は名字＋さん、同級生以下は男性は名字＋くん・女性は名字＋さんを使っていた。 . ところが先日、くんorさんのどちらで呼ぶべきか分からない場面があった。どう呼ぶべきか尋ねることもはばかられたし、相手も決めかねるかもしれなかった。 この出来事がきっかけで、性別によって呼び名を変えるという私が採用していた方法は、自分の推測する性別を相手に押しつけ、相手に違和感や不快感を抱かせていたかもしれないと気づいた。 . そこで最近は原則として、くん付けをやめてさん付けor呼び捨てを使っている。さん付けはくん付けよりも距離感を感じる呼び名だと思っているので、まだくん付けもときどき使っているが。これまで〇〇くんで呼んでいたのが〇〇さんになったのは、距離を置こうとしているためではないのだ。呼び名のリクエストがある方は、遠慮なく教えてほしい。 . ちなみに私は名字＋ちゃんで呼ばれて嫌だったことはないし、半ば愛称と化して気に入った呼び名だ。 . 2020.09.25 . Looking Forward to Translation Konjac . ほんやくこんにゃくはいつ . 昨夜、とある英会話コミュニティに一年ぶりに参加した。一年ぶりなのに覚えてくださっている方がいた。 “I major in meteorology”は、いつも発音が悪くて通じない。 ハリー・ポッターのスリザリンは、slither（ずるずる滑る・這う）に由来してるんですって。こんなレアな単語は知らなかったけど、豆知識として面白い。 . 同級生と比較して、英語の文構造をとるのは下手ではないし、語彙が少ないほうでもないと思っている。ただし学部の頃から、聞くこと喋ることへの苦手意識はずっとあった。 . 猛烈に英会話を練習しはじめたのは、昨年夏にアメリカのサマースクールに参加したことがきっかけである。20人超の参加学生の中で、私は圧倒的に英語ができなかった。雑談に入れないこともストレスだったが、特に全体ディスカッションで、言語が壁となって主張したいことが言えずにとても悔しい思いをした。 . ここ一年で、心優しいスピーカーと一対一で会話する能力は、だいぶ身についた、つもり。ただしネイティブ同士のやりとりは聞き取れないし、国際学会は英語を聞き流してスライドを凝視しているし、考えながら話すスピードは遅い。英語のディスカッションにフル参加するにはまだまだである。 読むスピードもあげたい。現状は読み書きを自動翻訳を頼るのが最速なのだが、読む方はなるべく原文を参照したい。書く方はこの際、ツールに頼り続けた方が時間を節約できていいかもしれない。 . 英語を使う仕事をしたい気がしているので、今後も英語は勉強するつもり。将来ほんやくこんにゃくが開発されたら便利だけど、それまで勉強してきたことがちょっと残念になるかもしれない . 2020.09.24 . Effect of COVID-19 on My Ph. D. Student Life . 博士生活におけるコロナの影響 . | 要旨 | . 交流する方が限られる。研究すること以外に、色々な方と会話することが大学院にいる意義だと思っているので残念。 . | 本文 | . 個人的な博士生活にコロナがもたらした変化について書く。 知り合いしか読んでいないと思うが、私は気象学を専攻する博士後期課程２年生である。研究の作業は全てパソコンで完結するので、研究を進める上でコロナウイルスによる実用上の被害は極めて小さい。 . コロナに大きく影響を受けたのは、交友関係である。4,5月は登校がほとんど不可能だった。6月以降は規制がだいぶ緩和され、私は平日ほぼ毎日登校している。しかし授業もセミナーも全てオンラインに移行したので、登校する必要はない。一度も登校していない大学院生もおり、登校する人しない人で分かれている。オンラインのチャットや飲み会は盛んで大変楽しいが、メンバーが固定されてしまっているのは残念である。 . 学会も当面はオンライン開催の気配である。学会自体には、オンラインに移行してむしろ参加しやすくなった。しかしいかんせん、研究者と雑談する機会がない。 「何のために研究しているんですか？」「研究成果によっては、地球温暖化を加速させる方に世界を動かすことになりますがいいんですか？」みたいな尖った質問を、オンラインでするのははばかられる。そもそも４月以降、研究者はごく身近な方々としか会話していない。 雑談のためにアポイントとることもできないし、新しいコネクションを作ることも難しいと感じている。 . もしこれを読んでいる方がいたら、ぜひ飲み会に誘ってください。完。 . 2020.09.23 . なぜブログを書こうと思ったか？ . | 要約 | . 自己表現することが機会獲得につながると思うから。 . | 本文 | . ブログ初投稿なので、まずは投稿の動機を書く。 . 自分の意見や行動原理を自分の言葉で説明できる、聡明な人を尊敬する。私もそうなりたいし、そのような人のそばにいたいが、自分といることをメリットに感じてもらえるような崇高な理念や高いスキル・希有な経験は残念ながら持ち合わせていない。せめて「ブログで色々発信している人」というステータスを足すことで、面白がってもらえる可能性が上がるのではと考えた。 さらにはブログのために調べものをしたり、意見をまとめたり、長い文章を書くことでスキルを上げたいという思惑もある。 . これまで個人的意見を実名で世に出したことはあまりない。知り合いに煙たがれることが怖かったのだ。ところが最近、私の意見を真剣に聞きそのまま受け止めてくれる方々に恵まれていることに気づいた。大変ありがたい。今は任意の誰かに批判されることも、ブログ書くような人だったんだとびっくりされることも、さほど恐れていない。ブログのせいで距離を置くような人と、素で付き合う必要はない。 . ブログにする内容は取捨選択するが、未熟さを含めて正直な考えを伝える場として運営しようと思う。そのうちコンテンツ不足になりそうなので、議題のリクエストがあったら教えてください。 . ここまで書いて、伊坂幸太郎「魔王」に影響を受けた一連の行動だなと感じた。 . さて、ブログがこの一件だけになるとダサいんで、もう何件か投稿するぞー！！ . 2020.09.22 . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Blog/person/#table-of-contents",
     "relUrl": "/docs/Blog/person/#table-of-contents"
-  },"56": {
+  },"57": {
     "doc": 2020.09,
     "title": 2020.09,
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Blog/person/",
     "relUrl": "/docs/Blog/person/"
-  },"57": {
+  },"58": {
     "doc": "Python",
     "title": "Python",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/python/",
     "relUrl": "/docs/tips/python/"
-  },"58": {
+  },"59": {
     "doc": "Python",
     "title": "Table of contents",
     "content": ". Modern language. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/python/#table-of-contents",
     "relUrl": "/docs/tips/python/#table-of-contents"
-  },"59": {
+  },"60": {
     "doc": "Research",
     "title": "Research",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/research",
     "relUrl": "/docs/research"
-  },"60": {
+  },"61": {
     "doc": "Search",
     "title": "Search",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/",
     "relUrl": "/docs/search/"
-  },"61": {
+  },"62": {
     "doc": "Search",
     "title": "Table of contents",
     "content": ". | Enable search in configuration . | Search granularity | Search previews | Search tokenizer | Display URL in search results | Display search button | . | Hiding pages from search | Generate search index when used as a gem | . Just the Docs uses lunr.js to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points: . | Page title | Page content | Page URL | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#table-of-contents",
     "relUrl": "/docs/search/#table-of-contents"
-  },"62": {
+  },"63": {
     "doc": "Search",
     "title": "Enable search in configuration",
     "content": "In your site’s _config.yml, enable search: . # Enable or disable the site search # Supports true (default) or false search_enabled: true . Search granularity . Pages are split into sections that can be searched individually. The sections are defined by the headings on the page. Each section is displayed in a separate search result. # Split pages into sections that can be searched individually # Supports 1 - 6, default: 2 search.heading_level: 2 . Search previews . A search result can contain previews that show where the search words are found in the specific section. # Maximum amount of previews per search result # Default: 3 search.previews: 3 # Maximum amount of words to display before a matched word in the preview # Default: 5 search.preview_words_before: 5 # Maximum amount of words to display after a matched word in the preview # Default: 10 search.preview_words_after: 10 . Search tokenizer . The default is for hyphens to separate tokens in search terms: gem-based is equivalent to gem based, matching either word. To allow search for hyphenated words: . # Set the search token separator # Default: /[\\s\\-/]+/ # Example: enable support for hyphenated search words search.tokenizer_separator: /[\\s/]+/ . Display URL in search results . # Display the relative url in search results # Supports true (default) or false search.rel_url: false . Display search button . The search button displays in the bottom right corner of the screen and triggers the search input when clicked. # Enable or disable the search button that appears in the bottom right corner of every page # Supports true or false (default) search.button: true . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#enable-search-in-configuration",
     "relUrl": "/docs/search/#enable-search-in-configuration"
-  },"63": {
+  },"64": {
     "doc": "Search",
     "title": "Hiding pages from search",
     "content": "Sometimes you might have a page that you don’t want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the search_exclude: true parameter to the page’s YAML front matter: . Example . --- layout: default title: Page not found nav_exclude: true search_exclude: true --- . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#hiding-pages-from-search",
     "relUrl": "/docs/search/#hiding-pages-from-search"
-  },"64": {
+  },"65": {
     "doc": "Search",
     "title": "Generate search index when used as a gem",
     "content": "If you use Just the Docs as a remote theme, you do not need the following steps. If you use the theme as a gem, you must initialize the search by running this rake command that comes with just-the-docs: . $ bundle exec just-the-docs rake search:init . This command creates the assets/js/zzzz-search-data.json file that Jekyll uses to create your search index. Alternatively, you can create the file manually with this content. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#generate-search-index-when-used-as-a-gem",
     "relUrl": "/docs/search/#generate-search-index-when-used-as-a-gem"
-  },"65": {
+  },"66": {
     "doc": "Tools",
     "title": "Utilities",
     "content": "Thank you tools! . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools#utilities",
     "relUrl": "/docs/tools#utilities"
-  },"66": {
+  },"67": {
     "doc": "Tools",
     "title": "Tools",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools",
     "relUrl": "/docs/tools"
-  },"67": {
+  },"68": {
     "doc": "Memo",
     "title": "What I read and watched",
     "content": "What I read and watched . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Media#what-i-read-and-watched",
     "relUrl": "/docs/Media#what-i-read-and-watched"
-  },"68": {
+  },"69": {
     "doc": "Memo",
     "title": "Memo",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Media",
     "relUrl": "/docs/Media"
-  },"69": {
+  },"70": {
     "doc": "Blog",
     "title": "ブログ。",
     "content": "発信したい何か。ここは日本語だなあ。 . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Blog#%E3%83%96%E3%83%AD%E3%82%B0",
     "relUrl": "/docs/Blog#ブログ"
-  },"70": {
+  },"71": {
     "doc": "Blog",
     "title": "Blog",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Blog",
     "relUrl": "/docs/Blog"
-  },"71": {
+  },"72": {
     "doc": "Tips",
     "title": "Tips",
     "content": "I write these tips for myself. I am a Mac user. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips",
     "relUrl": "/docs/tips"
-  },"72": {
+  },"73": {
     "doc": "ドラマ・ドキュメンタリー・映画など",
     "title": "メモと感想",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Memo/video/#%E3%83%A1%E3%83%A2%E3%81%A8%E6%84%9F%E6%83%B3",
     "relUrl": "/docs/Memo/video/#メモと感想"
-  },"73": {
+  },"74": {
     "doc": "ドラマ・ドキュメンタリー・映画など",
     "title": "Table of contents",
     "content": ". | Netflix explained | . Netflix explained . | Music | . 人は規則性な響きに音楽を感じる。リズムを刻める生物は少ない。メロディーの旋律から感じ取るストーリーは文化に依存。 作中取り上げられていたTOKiMONSTA “I Wish I Cloud”にはまった。 . | The World’s Water Çrisis | . 水は、その供給源の近くで安すぎる。明らかに農業に適していない土地で使われすぎている。 . | Why Women Are Paid Less | . 男性/女性に差があるというより、子供を持つ女性/そうでない人の差が大きいという認識が正確らしい。歴史的経緯をひきづっているだけの職業差別はなくしたいですね。 . | Political Correctness | . どこに属するかではなく、相手が何者なのか見ることが大切。この言葉遣いならセーフ、これはアウトという明確な線引きがあるわけではない。多くの政治家がポリコレを批判することで、民衆の支持を得ようとしていたことが印象的だった。相手を分類する言葉を使うときは、分類したことを認識して話すよう心がけようと思った。 . | The Female Orgasm | . 生理学的メカニズムが分からないからこそ、Sociosexual scriptsに影響されやすい。特に女性。 ポルノサイトの人気カテゴリ２位が”Japanese”だったのはなぜだろうw。 . | Can We Live Forever? | . 加齢は健康を害する大きな因子。今後数十年のうちに、人の加齢を抑えて健康を促進する遺伝子操作技術が開発されるかもしれない。 . | Astrology | . 発音が難しい単語だなあ。占星術は科学的でない。たとえば、2000年前に考えられた12星座は、地軸がずれた今では整合しない。 アメリカ人は宗教を信じなくなり、スピリチュアルなものを信じるようになっている。個人を大事にしたいことの現れ？ . | Tattoo | . 痛そう。日本の伝統的な刺青がフィーチャーされていた。大きな主題と、自然の背景が特徴的だそう。 . | Weed | . 大麻のこと。ここ数十年で、大麻に含まれる物質が大きく変わっているが、それを正確に追跡できていない。 大麻の合法化について、大麻の分類を促進するからと前向きだったが、そのロジックが分からない。 . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Memo/video/#table-of-contents",
     "relUrl": "/docs/Memo/video/#table-of-contents"
-  },"74": {
+  },"75": {
     "doc": "ドラマ・ドキュメンタリー・映画など",
     "title": "ドラマ・ドキュメンタリー・映画など",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Memo/video/",
     "relUrl": "/docs/Memo/video/"
-  },"75": {
+  },"76": {
     "doc": "Vim",
     "title": "Vim",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vim/",
     "relUrl": "/docs/tips/vim/"
-  },"76": {
+  },"77": {
     "doc": "Vim",
     "title": "Table of contents",
     "content": ". Vim!! . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vim/#table-of-contents",
     "relUrl": "/docs/tips/vim/#table-of-contents"
-  },"77": {
+  },"78": {
     "doc": "VS Code",
     "title": "VS Code",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/",
     "relUrl": "/docs/tips/vscode/"
-  },"78": {
+  },"79": {
     "doc": "VS Code",
     "title": "Table of contents",
     "content": ". | Shourtcuts for mac OS . | General | . | Extensions . | Markdown-preview-enhanced . | import | code chunk | . | . | . I know it’s quite useful if I know how to use it. There are too many functions to use it well. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#table-of-contents",
     "relUrl": "/docs/tips/vscode/#table-of-contents"
-  },"79": {
+  },"80": {
     "doc": "VS Code",
     "title": "Shourtcuts for mac OS",
     "content": "cheatsheet . General . | Key | Operation | . | Command + Shift + P | Show Command Palette | . | Command + P | Quick Open, Go to File | . | Control + Shift + ` | Open terminal | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#shourtcuts-for-mac-os",
     "relUrl": "/docs/tips/vscode/#shourtcuts-for-mac-os"
-  },"80": {
+  },"81": {
     "doc": "VS Code",
     "title": "Extensions",
     "content": "Markdown-preview-enhanced . import . @import \"your_file\" . Configure images @import \"test.png\" {width=\"300px\" height=\"200px\" title=\"my title\" alt=\"my alt\"} . Import online file @import \"https://raw.githubusercontent.com/shd101wyy/markdown-preview-enhanced/master/LICENSE.md\" . Import certain lones @import \"test.md\" {line_begin=2 line_end=10} . Import file as Code Chunk @import \"test.py\" {cmd=\"python3\"} @import \"Hellow_World.sh\" {cmd=true} . reference . code chunk . ```bash {cmd=true} ls . ``` . ```python {cmd=true matplotlib=true} import matplotlib.pyplot as plt plt.plot([1,2,3, 4]) plt.show() # show figure ``` . ",
