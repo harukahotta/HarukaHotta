@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-nav_order: 6
+nav_order: 7
 has_children: true
 permalink: docs/Blog
 ---
@@ -9,5 +9,5 @@ permalink: docs/Blog
 # ブログ。
 {: .no_toc }
 
-発信したい何か。ここは日本語だなあ。
+自分の言葉で発信したい何か。
 {: .fs-6 .fw-300 }
