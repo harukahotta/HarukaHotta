@@ -16,3 +16,5 @@ parent: Tools
 ---
 
 Cloud-system resolving model
+
+[NICAM page](http://nicam.jp/hiki/ "NICAM page")
