@@ -223,286 +223,298 @@
   },"37": {
     "doc": "CV",
     "title": "Table of contents",
-    "content": ". | Publication | Presentation | . ",
+    "content": ". | Education | Publication | Presentation | Achievement | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#table-of-contents",
     "relUrl": "/docs/cv/#table-of-contents"
   },"38": {
     "doc": "CV",
-    "title": "Publication",
-    "content": " ",
-    "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#publication",
-    "relUrl": "/docs/cv/#publication"
+    "title": "Education",
+    "content": "Ph.D., Apr 2019 – Present, Tokyo University, Japan Adviser: Kentaroh Suzuki . M.S., Apr 2017 – Mar 2019, Tokyo University, Japan Thesis : A modeling study on climate impact of cloud water horizontal inhomogeneity Adviser: Kentaroh Suzuki . B.S., Apr 2013 – Mar 2017, Tokyo University, Japan . ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#education",
+    "relUrl": "/docs/cv/#education"
   },"39": {
     "doc": "CV",
+    "title": "Publication",
+    "content": ". | 学術雑誌等（紀要・論文集等も含む）に発表した論文、著書 (査読あり) . | Haruka Hotta, Kentaroh Suzuki, Daisuke Goto and Matthew Lebsock: Climate impact of cloud water inhomogeneity through microphysical processes in a global climate model. Journal of Climate, 33, pp5195–5212, 2020, https://doi.org/10.1175/JCLI-D-19-0772.1 | . | . ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#publication",
+    "relUrl": "/docs/cv/#publication"
+  },"40": {
+    "doc": "CV",
     "title": "Presentation",
-    "content": " ",
+    "content": ". | 国際会議における発表 (口頭発表,査読あり) . | Haruka Hotta, Kentaroh Suzuki, and Daisuke Goto: A modeling study on climate impact of cloud water horizontal inhomogeneity. American Geophysical Society Fall meeting. San Fracsisco, USA, December 2020. | Sam Sherriff-Tadano, Ayako Abe-Ouchi, Haruka Hotta, Maki Kikuchi, Takanori Kodama, and Kentaroh Suzuki: Role of clouds on the Southern Ocean sea surface temperature bias and its impact on the LGM AMOC. European Geosciences Union, Geophysical Research Abstracts Vol. 21, EGU2019-18328. Vienna, Austria, April 2019. (口頭発表,査読なし) | Haruka Hotta and Kentaroh Suzuki: Climate effects of aerosol-cloud interaction investigated by a global cloudresolving model. JpGU 2020. Chiba, Japan, July 2020. | Haruka Hotta, Kentaroh Suzuki, and Daisuke Goto: A modeling study on climate impact of cloud water horizontal inhomogeneity. Joint workshop on clouds, precipitation, circulation and climate sensitivity. Pusan, Korea, May 2019. (ポスター発表, 査読なし) | Haruka Hotta, Kentaroh Suzuki, and Daisuke Goto: A modeling study on climate impact of cloud water horizontal inhomogeneity. Joint US-Japan Workshop on Climate Change and Variability. Hawaii, March 2019. | Haruka Hotta, Kentaroh Suzuki, Maki Kikuchi: Consistent evaluation of MIROC cloud properties with satellite observations and simulators. JpGU 2018. Chiba, Japan, May 2018. | . | 国内学会・シンポジウム等における発表 . | 堀田陽香, 鈴木健太郎, 五藤大輔: 雲水量の水平不均質性がもたらす気候影響についてのモデリング研究. 日本気象学会 2019 年度春季大会. 東京, 2019 年5 月 | 堀田陽香, 鈴木健太郎, 五藤大輔: 雲水量の水平不均質性がもたらす気候影響. GPM&amp;衛星シミュレータ 研究会. 愛知, 2019 年3 月 | 堀田陽香, 鈴木健太郎, 五藤大輔, Matthew Lebsock: 気候モデルMIROC の雲微物理過程への格子内雲 水変動の影響. 日本気象学会 2018 年度秋季大会. 茨城, 2018 年11 月 | 堀田陽香, 鈴木健太郎, 菊池麻紀: COSP を用いたMIROC の雲・放射場の評価, 衛星シミュレータ研究 会, 千葉, 2018 年7 月 | 堀田陽香, 鈴木健太郎, 菊池麻紀: 衛星シミュレータを用いた気候モデルMIROC の雲場の評価. 日本 気象学会 2018 年度春季大会. 茨城, 2018 年5 月 | . | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#presentation",
     "relUrl": "/docs/cv/#presentation"
-  },"40": {
+  },"41": {
+    "doc": "CV",
+    "title": "Achievement",
+    "content": ". | 2019 年度NASA JPL 主催サマースクールのメンバーに選抜 2019 年8 月にアメリカ本土で開催された、”Using Satellite Observations to Advance Climate Models”という1 週間のサマースクールに参加した。 . | 研究協力者として、平成30 年度 九州大学応用力学研究所 若手キャリアアップ支援研究に採用 . | 東京大学基金2019 年度後期「地球惑星科学の研究教育支援基金」に採用 海洋物質循環ゼミを立ち上げ、代表を務めている。このゼミでは地球科学分野の教員・学生で、教科書の輪読や野外巡検を行なっており、活動資金の一部を基金に負担いただいている。 . | 研究代表者として、令和2 年度 九州大学応用力学研究所 若手キャリアアップ支援研究に採用 . | . ",
+    "url": "https://harukahotta.github.io/HarukaHotta/docs/cv/#achievement",
+    "relUrl": "/docs/cv/#achievement"
+  },"42": {
     "doc": "Fortran",
     "title": "Fortran",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/fortran/",
     "relUrl": "/docs/tips/fortran/"
-  },"41": {
+  },"43": {
     "doc": "Fortran",
     "title": "Table of contents",
     "content": ". | Bug fix . | compile option | size | . | IO . | read file | . | character . | character length | . | function and subroutine | . I don’t like Fortran 77 Basically use gfortran . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/fortran/#table-of-contents",
     "relUrl": "/docs/tips/fortran/#table-of-contents"
-  },"42": {
+  },"44": {
     "doc": "Fortran",
     "title": "Bug fix",
     "content": "compile option . gfortran -Wall -fbounds-check -O -Wuninitialized -ffpe-trap=invalid,zero,overflow -fbacktrace hoge.f90 . -fbounds-check Enable generation of run-time checks for array subscripts and against the declared minimum and maximum values. It also checks array indices for assumed and deferred shape arrays against the actual allocated bounds and ensures that all string lengths are equal for character array constructors without an explicit typespec. -Wall Enables commonly used warning options pertaining to usage that we recommend avoiding and that we believe are easy to avoid. -Wuninitialized Warn if an automatic variable is used without first being initialized. -ffpe-trap=invalid,zero,overflow invalid invalid floating point operation. zero division by zero, overflow overflow in a floating point operation. -fbacktrace When a runtime error is encountered or a deadly signal is emitted (segmentation fault, illegal instruction, bus error or floating-point exception), the Fortran runtime library should output a backtrace of the error. This option only has influence for compilation of the Fortran main program. -g . size . ulimit -s ulimit -s unlimited . gfororan -mcmodel=large hoge.f90 . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/fortran/#bug-fix",
     "relUrl": "/docs/tips/fortran/#bug-fix"
-  },"43": {
+  },"45": {
     "doc": "Fortran",
     "title": "IO",
     "content": "read file . integer :: ios open(..., iostat=ios, ...) if (ios &gt; 0) then write(*,*) 'Failed to open file for output' stop if (ios &lt; 0) then write(*,*) 'End of file' stop end if . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/fortran/#io",
     "relUrl": "/docs/tips/fortran/#io"
-  },"44": {
+  },"46": {
     "doc": "Fortran",
     "title": "character",
     "content": "character length . character(len=*), parameter :: text = 'initialization by this string' . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/fortran/#character",
     "relUrl": "/docs/tips/fortran/#character"
-  },"45": {
+  },"47": {
     "doc": "Fortran",
     "title": "function and subroutine",
     "content": "Variables defined in function/subroutine is independent from other function/subroutine and main program. program sample implicit none !main program stop contains real(4) function plus1(x) implicit none real(4) :: x plus1 = x + 1.0 return end function plus1 subroutine hello(name) implicit none character(len=*) :: name write(*,*) 'Hello ', name return end subroutine hello subroutine add(a, b, c) implicit none real(4), intent(in) :: a, b real(4), intent(out) :: c c = a + b end subroutine add end program sample . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/fortran/#function-and-subroutine",
     "relUrl": "/docs/tips/fortran/#function-and-subroutine"
-  },"46": {
+  },"48": {
     "doc": "Geoengineer",
     "title": "Google Alerts “geoengineer” に引っ掛かったもの",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Memo/geoengineer/#google-alerts-geoengineer-%E3%81%AB%E5%BC%95%E3%81%A3%E6%8E%9B%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE",
     "relUrl": "/docs/Memo/geoengineer/#google-alerts-geoengineer-に引っ掛かったもの"
-  },"47": {
+  },"49": {
     "doc": "Geoengineer",
     "title": "Table of contents",
     "content": ". | Can Geoengineering Fix the Climate Crisis? | How to stop global warming? The most controversial solutions explained | Who Governs Climate Intervention and Geoengineering on the High Seas? | Why Solar Geoengineering Should Be Part of the Climate Crisis Solution | . 自分のメモとして英語の記事を和訳、転載しています . 要約ではありません。誤訳もあるかもしれません . 内容に強い興味をお持ちの方は、元の記事を参照ください . Can Geoengineering Fix the Climate Crisis? . How to stop global warming? The most controversial solutions explained . Who Governs Climate Intervention and Geoengineering on the High Seas? . Why Solar Geoengineering Should Be Part of the Climate Crisis Solution . | 本文より | . 気候学者David Keithは成層圏にエアロゾルを注入する実験を計画中。 本文はDavidへのインタビュー。 . 気候工学は長らくタブー視されてきた。 リスクを減らす技術の導入には、人々がリスクを犯す可能性を上げるのではないかという議論が付きまとう。 たとえばエアーバッグを導入すると、車がより速いスピードで運転されるのではと危惧する人がいた。 geoengineeringについては、最近その傾向が変わりつつある。研究プログラムも以前より増えている。 . モデルを使った研究によれば、太陽光を減らすgeoengineeringは気候を好ましい状態にする。 Stratospheric Controlled Perturbation Experiment (SCoPEx):成層圏に1kgくらい物質を入れて、その反応を検証する実験を行う予定。 . 成層圏のエアロゾルは最終的に地表に落ちてくる。もちろんその健康被害を考える必要はあるが、 $1.5 10^6$ Ton/yrが見込まれる成層圏へのエアロゾルに対し、現在の人間活動はすでに$50 10^6$ Ton/yrの硫酸性エアロゾルを排出している。 温暖化を抑制する恩恵と、大気汚染のリスクを合わせて考える必要があろう。 研究を進めることで、今後solar geoengineeringが導入される可能性が高まる。 ただし脱炭素社会を実現させるための技術ではなく、温暖化の影響を抑えるためのものである。 . | 自分の見解 | . 本当にモデルによる検証を進めることが、geoengineeringを後押しするのだろうか。 地球温暖化についても嫌というほどモデルの検証はされているんだよなあ。 . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Memo/geoengineer/#table-of-contents",
     "relUrl": "/docs/Memo/geoengineer/#table-of-contents"
-  },"48": {
+  },"50": {
     "doc": "Geoengineer",
     "title": "Geoengineer",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Memo/geoengineer/",
     "relUrl": "/docs/Memo/geoengineer/"
-  },"49": {
+  },"51": {
     "doc": "Markdown kitchen sink",
     "title": "Header 1",
     "content": "This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/index-test/#header-1",
     "relUrl": "/docs/index-test/#header-1"
-  },"50": {
+  },"52": {
     "doc": "Markdown kitchen sink",
     "title": "Header 2",
     "content": "This is a blockquote following a header. When something is important enough, you do it even if the odds are not in your favor. Header 3 . // Javascript code with syntax highlighting. var fun = function lang(l) { dateformat.i18n = require('./lang/' + l) return true; } . # Ruby code with syntax highlighting GitHubPages::Dependencies.gems.each do |gem, version| s.add_dependency(gem, \"= #{version}\") end . Header 4 . | This is an unordered list following a header. | This is an unordered list following a header. | This is an unordered list following a header. | . Header 5 . | This is an ordered list following a header. | This is an ordered list following a header. | This is an ordered list following a header. | . Header 6 . | head1 | head two | three | . | ok | good swedish fish | nice | . | out of stock | good and plenty | nice | . | ok | good oreos | hmm | . | ok | good zoute drop | yumm | . There’s a horizontal rule below this. Here is an unordered list: . | Item foo | Item bar | Item baz | Item zip | . And an ordered list: . | Item one | Item two | Item three | Item four | . And a nested list: . | level 1 item . | level 2 item | level 2 item . | level 3 item | level 3 item | . | . | level 1 item . | level 2 item | level 2 item | level 2 item | . | level 1 item . | level 2 item | level 2 item | . | level 1 item | . Nesting an ol in ul in an ol . | level 1 item (ul) . | level 2 item (ol) | level 2 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | . | level 1 item (ul) . | level 2 item (ol) | level 2 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | level 4 item (ol) | level 4 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | . | level 1 item (ul) | . And a task list . | Hello, this is a TODO item | Hello, this is another TODO item | Goodbye, this item is done | . Small image . Large image . Definition lists can be used with HTML syntax. Name Godzilla Born 1952 Birthplace Japan Color Green Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. The final element. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/index-test/#header-2",
     "relUrl": "/docs/index-test/#header-2"
-  },"51": {
+  },"53": {
     "doc": "Markdown kitchen sink",
     "title": "Markdown kitchen sink",
     "content": "Text can be bold, italic, or strikethrough. Link to another page. There should be whitespace between paragraphs. There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/index-test/",
     "relUrl": "/docs/index-test/"
-  },"52": {
+  },"54": {
     "doc": "Home",
     "title": "堀田陽香 Haruka Hotta(she/her)",
     "content": "Ph.D. student . ",
     "url": "https://harukahotta.github.io/HarukaHotta/#%E5%A0%80%E7%94%B0%E9%99%BD%E9%A6%99-haruka-hottasheher",
     "relUrl": "/#堀田陽香-haruka-hottasheher"
-  },"53": {
+  },"55": {
     "doc": "Home",
     "title": "Basic information",
     "content": "Atmospheric and Ocean Research Institute, Tokyo University. Belong to Suzuki Laboratory . ORCiD ID . Google Scholar Citation . Research Gate . ",
     "url": "https://harukahotta.github.io/HarukaHotta/#basic-information",
     "relUrl": "/#basic-information"
-  },"54": {
+  },"56": {
     "doc": "Home",
     "title": "language (言語)",
     "content": "English/日本語 . ",
     "url": "https://harukahotta.github.io/HarukaHotta/#language-%E8%A8%80%E8%AA%9E",
     "relUrl": "/#language-言語"
-  },"55": {
+  },"57": {
     "doc": "Home",
     "title": "質問・問い合わせなど",
     "content": "公式なものは、大学のメールアドレスへ Official Question (hotta @ aori.u-tokyo.ac.jp) . 雑多なものは、質問箱へ Casual Question 堀田陽香への質問箱 . ",
     "url": "https://harukahotta.github.io/HarukaHotta/#%E8%B3%AA%E5%95%8F%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%81%AA%E3%81%A9",
     "relUrl": "/#質問問い合わせなど"
-  },"56": {
+  },"58": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/",
     "relUrl": "/"
-  },"57": {
+  },"59": {
     "doc": "MIROC",
     "title": "MIROC",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/miroc/",
     "relUrl": "/docs/tools/miroc/"
-  },"58": {
+  },"60": {
     "doc": "MIROC",
     "title": "Table of contents",
     "content": ". Climate Model . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/miroc/#table-of-contents",
     "relUrl": "/docs/tools/miroc/#table-of-contents"
-  },"59": {
+  },"61": {
     "doc": "NICAM",
     "title": "NICAM",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/nicam/",
     "relUrl": "/docs/tools/nicam/"
-  },"60": {
+  },"62": {
     "doc": "NICAM",
     "title": "Table of contents",
     "content": ". Cloud-system resolving model . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools/nicam/#table-of-contents",
     "relUrl": "/docs/tools/nicam/#table-of-contents"
-  },"61": {
+  },"63": {
     "doc": "Python",
     "title": "Python",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/python/",
     "relUrl": "/docs/tips/python/"
-  },"62": {
+  },"64": {
     "doc": "Python",
     "title": "Table of contents",
     "content": ". Modern language. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/python/#table-of-contents",
     "relUrl": "/docs/tips/python/#table-of-contents"
-  },"63": {
+  },"65": {
     "doc": "Research",
     "title": "Research",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/research",
     "relUrl": "/docs/research"
-  },"64": {
+  },"66": {
     "doc": "Search",
     "title": "Search",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/",
     "relUrl": "/docs/search/"
-  },"65": {
+  },"67": {
     "doc": "Search",
     "title": "Table of contents",
     "content": ". | Enable search in configuration . | Search granularity | Search previews | Search tokenizer | Display URL in search results | Display search button | . | Hiding pages from search | Generate search index when used as a gem | . Just the Docs uses lunr.js to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points: . | Page title | Page content | Page URL | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#table-of-contents",
     "relUrl": "/docs/search/#table-of-contents"
-  },"66": {
+  },"68": {
     "doc": "Search",
     "title": "Enable search in configuration",
     "content": "In your site’s _config.yml, enable search: . # Enable or disable the site search # Supports true (default) or false search_enabled: true . Search granularity . Pages are split into sections that can be searched individually. The sections are defined by the headings on the page. Each section is displayed in a separate search result. # Split pages into sections that can be searched individually # Supports 1 - 6, default: 2 search.heading_level: 2 . Search previews . A search result can contain previews that show where the search words are found in the specific section. # Maximum amount of previews per search result # Default: 3 search.previews: 3 # Maximum amount of words to display before a matched word in the preview # Default: 5 search.preview_words_before: 5 # Maximum amount of words to display after a matched word in the preview # Default: 10 search.preview_words_after: 10 . Search tokenizer . The default is for hyphens to separate tokens in search terms: gem-based is equivalent to gem based, matching either word. To allow search for hyphenated words: . # Set the search token separator # Default: /[\\s\\-/]+/ # Example: enable support for hyphenated search words search.tokenizer_separator: /[\\s/]+/ . Display URL in search results . # Display the relative url in search results # Supports true (default) or false search.rel_url: false . Display search button . The search button displays in the bottom right corner of the screen and triggers the search input when clicked. # Enable or disable the search button that appears in the bottom right corner of every page # Supports true or false (default) search.button: true . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#enable-search-in-configuration",
     "relUrl": "/docs/search/#enable-search-in-configuration"
-  },"67": {
+  },"69": {
     "doc": "Search",
     "title": "Hiding pages from search",
     "content": "Sometimes you might have a page that you don’t want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the search_exclude: true parameter to the page’s YAML front matter: . Example . --- layout: default title: Page not found nav_exclude: true search_exclude: true --- . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#hiding-pages-from-search",
     "relUrl": "/docs/search/#hiding-pages-from-search"
-  },"68": {
+  },"70": {
     "doc": "Search",
     "title": "Generate search index when used as a gem",
     "content": "If you use Just the Docs as a remote theme, you do not need the following steps. If you use the theme as a gem, you must initialize the search by running this rake command that comes with just-the-docs: . $ bundle exec just-the-docs rake search:init . This command creates the assets/js/zzzz-search-data.json file that Jekyll uses to create your search index. Alternatively, you can create the file manually with this content. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/search/#generate-search-index-when-used-as-a-gem",
     "relUrl": "/docs/search/#generate-search-index-when-used-as-a-gem"
-  },"69": {
+  },"71": {
     "doc": "Blog",
     "title": "ブログ。",
     "content": "自分の言葉で発信したい何か。 . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Blog#%E3%83%96%E3%83%AD%E3%82%B0",
     "relUrl": "/docs/Blog#ブログ"
-  },"70": {
+  },"72": {
     "doc": "Blog",
     "title": "Blog",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Blog",
     "relUrl": "/docs/Blog"
-  },"71": {
+  },"73": {
     "doc": "Tools",
     "title": "Utilities",
     "content": "Thank you tools! . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools#utilities",
     "relUrl": "/docs/tools#utilities"
-  },"72": {
+  },"74": {
     "doc": "Tools",
     "title": "Tools",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tools",
     "relUrl": "/docs/tools"
-  },"73": {
+  },"75": {
     "doc": "Memo",
     "title": "What I read and watched",
     "content": "What I read and watched . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Media#what-i-read-and-watched",
     "relUrl": "/docs/Media#what-i-read-and-watched"
-  },"74": {
+  },"76": {
     "doc": "Memo",
     "title": "Memo",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Media",
     "relUrl": "/docs/Media"
-  },"75": {
+  },"77": {
     "doc": "Tips",
     "title": "Tips",
     "content": "I write these tips for myself. I am a Mac user. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips",
     "relUrl": "/docs/tips"
-  },"76": {
+  },"78": {
     "doc": "ドラマ・ドキュメンタリー・映画など",
     "title": "メモと感想",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Memo/video/#%E3%83%A1%E3%83%A2%E3%81%A8%E6%84%9F%E6%83%B3",
     "relUrl": "/docs/Memo/video/#メモと感想"
-  },"77": {
+  },"79": {
     "doc": "ドラマ・ドキュメンタリー・映画など",
     "title": "Table of contents",
     "content": ". | Netflix explained | . Netflix explained . | Music | . 人は規則性な響きに音楽を感じる。リズムを刻める生物は少ない。メロディーの旋律から感じ取るストーリーは文化に依存。 作中取り上げられていたTOKiMONSTA “I Wish I Cloud”にはまった。 . | The World’s Water Çrisis | . 水は、その供給源の近くで安すぎる。明らかに農業に適していない土地で使われすぎている。 . | Why Women Are Paid Less | . 男性/女性に差があるというより、子供を持つ女性/そうでない人の差が大きいという認識が正確らしい。歴史的経緯をひきづっているだけの職業差別はなくしたいですね。 . | Political Correctness | . どこに属するかではなく、相手が何者なのか見ることが大切。この言葉遣いならセーフ、これはアウトという明確な線引きがあるわけではない。多くの政治家がポリコレを批判することで、民衆の支持を得ようとしていたことが印象的だった。相手を分類する言葉を使うときは、分類したことを認識して話すよう心がけようと思った。 . | The Female Orgasm | . 生理学的メカニズムが分からないからこそ、Sociosexual scriptsに影響されやすい。特に女性。 ポルノサイトの人気カテゴリ２位が”Japanese”だったのはなぜだろうw。 . | Can We Live Forever? | . 加齢は健康を害する大きな因子。今後数十年のうちに、人の加齢を抑えて健康を促進する遺伝子操作技術が開発されるかもしれない。 . | Astrology | . 発音が難しい単語だなあ。占星術は科学的でない。たとえば、2000年前に考えられた12星座は、地軸がずれた今では整合しない。 アメリカ人は宗教を信じなくなり、スピリチュアルなものを信じるようになっている。個人を大事にしたいことの現れ？ . | Tattoo | . 痛そう。日本の伝統的な刺青がフィーチャーされていた。大きな主題と、自然の背景が特徴的だそう。 . | Weed | . 大麻のこと。ここ数十年で、大麻に含まれる物質が大きく変わっているが、それを正確に追跡できていない。 大麻の合法化について、大麻の分類を促進するからと前向きだったが、そのロジックが分からない。 . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Memo/video/#table-of-contents",
     "relUrl": "/docs/Memo/video/#table-of-contents"
-  },"78": {
+  },"80": {
     "doc": "ドラマ・ドキュメンタリー・映画など",
     "title": "ドラマ・ドキュメンタリー・映画など",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/Memo/video/",
     "relUrl": "/docs/Memo/video/"
-  },"79": {
+  },"81": {
     "doc": "Vim",
     "title": "Vim",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vim/",
     "relUrl": "/docs/tips/vim/"
-  },"80": {
+  },"82": {
     "doc": "Vim",
     "title": "Table of contents",
     "content": ". Vim!! . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vim/#table-of-contents",
     "relUrl": "/docs/tips/vim/#table-of-contents"
-  },"81": {
+  },"83": {
     "doc": "VS Code",
     "title": "VS Code",
     "content": " ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/",
     "relUrl": "/docs/tips/vscode/"
-  },"82": {
+  },"84": {
     "doc": "VS Code",
     "title": "Table of contents",
     "content": ". | Shourtcuts for mac OS . | General | . | Extensions . | Markdown-preview-enhanced . | import | code chunk | . | . | . I know it’s quite useful if I know how to use it. There are too many functions to use it well. ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#table-of-contents",
     "relUrl": "/docs/tips/vscode/#table-of-contents"
-  },"83": {
+  },"85": {
     "doc": "VS Code",
     "title": "Shourtcuts for mac OS",
     "content": "cheatsheet . General . | Key | Operation | . | Command + Shift + P | Show Command Palette | . | Command + P | Quick Open, Go to File | . | Control + Shift + ` | Open terminal | . ",
     "url": "https://harukahotta.github.io/HarukaHotta/docs/tips/vscode/#shourtcuts-for-mac-os",
     "relUrl": "/docs/tips/vscode/#shourtcuts-for-mac-os"
-  },"84": {
+  },"86": {
     "doc": "VS Code",
     "title": "Extensions",
     "content": "Markdown-preview-enhanced . import . @import \"your_file\" . Configure images @import \"test.png\" {width=\"300px\" height=\"200px\" title=\"my title\" alt=\"my alt\"} . Import online file @import \"https://raw.githubusercontent.com/shd101wyy/markdown-preview-enhanced/master/LICENSE.md\" . Import certain lones @import \"test.md\" {line_begin=2 line_end=10} . Import file as Code Chunk @import \"test.py\" {cmd=\"python3\"} @import \"Hellow_World.sh\" {cmd=true} . reference . code chunk . ```bash {cmd=true} ls . ``` . ```python {cmd=true matplotlib=true} import matplotlib.pyplot as plt plt.plot([1,2,3, 4]) plt.show() # show figure ``` . ",
