@@ -15,4 +15,6 @@ permalink: docs/Blog
 以前の記事も、断りなく加筆・修正します。
 GitHubのCommitに履歴は残してあります。
 
+そろそろポエムが恥ずかしい
+
 
